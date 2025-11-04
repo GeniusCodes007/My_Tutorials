@@ -43,7 +43,7 @@ class Our_Response(BaseModel):
 class UserAccount(Base):
     __tablename__ = "users_account"
 
-    id_ = Column(Integer, primary_key= True, nullable = False)
+    id_ = Column(Integer, primary_key= True, nullable = False, autoincrement=True)
     username=Column(String(20), nullable= False, unique=True, primary_key=True)
     email= Column(String, nullable=False, unique=True)
     pin=Column(String(length=6), nullable=False)

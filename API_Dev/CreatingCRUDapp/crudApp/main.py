@@ -99,9 +99,8 @@ def update(id_:int, new_post: UpdatePost, db:Session=Depends(get_db)):
     db.commit()
     return post_query.first()
 
-
 @app.post("/user", status_code=status.HTTP_201_CREATED, response_model= UserRegInfo)
-def create_post( user:models.CreateUser,db: Session= Depends(get_db)):
+async def create_post( user:models.CreateUser,db: Session= Depends(get_db)):
     new_user = models.UserAccount(**user.model_dump())
 
     db.add(new_user)
