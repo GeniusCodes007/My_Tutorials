@@ -1,0 +1,280 @@
+[
+    {
+        "label": "Sine",
+        "importPath": "TRIGNOMETRY",
+        "description": "TRIGNOMETRY",
+        "isExtraImport": true,
+        "detail": "TRIGNOMETRY",
+        "documentation": {}
+    },
+    {
+        "label": "greeting",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "greeting = \"*    Good Morning!!!   *\"\n#print(greeting)\nfirst = \"************************\"\nsecond = \"*                      *\"\nthird = \"************************\"\nprint(first)\n#print(second)\nprint(greeting)                     \nprint(third)\nline1 = \"            *                  *         \"",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "first",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "first = \"************************\"\nsecond = \"*                      *\"\nthird = \"************************\"\nprint(first)\n#print(second)\nprint(greeting)                     \nprint(third)\nline1 = \"            *                  *         \"\nline2 = \"           * *                * *        \"\nline3 = \"          * * *              * * *       \"",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "second",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "second = \"*                      *\"\nthird = \"************************\"\nprint(first)\n#print(second)\nprint(greeting)                     \nprint(third)\nline1 = \"            *                  *         \"\nline2 = \"           * *                * *        \"\nline3 = \"          * * *              * * *       \"\nline4 = \"         **   **            **   **      \"",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "third",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "third = \"************************\"\nprint(first)\n#print(second)\nprint(greeting)                     \nprint(third)\nline1 = \"            *                  *         \"\nline2 = \"           * *                * *        \"\nline3 = \"          * * *              * * *       \"\nline4 = \"         **   **            **   **      \"\nline5 = \"        **     **          **     **     \"",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line1",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line1 = \"            *                  *         \"\nline2 = \"           * *                * *        \"\nline3 = \"          * * *              * * *       \"\nline4 = \"         **   **            **   **      \"\nline5 = \"        **     **          **     **     \"\nline6 = \"       **_______**________**_______**    \"\nline7 = \"       |   _____            _____    |   \"\nline8 = \"       |   |____|           |____|   |   \"\nline9 = \"       |   |____|  ______   |____|   |   \"\nline10 = \"       |           |     |           |    \"",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line2",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line2 = \"           * *                * *        \"\nline3 = \"          * * *              * * *       \"\nline4 = \"         **   **            **   **      \"\nline5 = \"        **     **          **     **     \"\nline6 = \"       **_______**________**_______**    \"\nline7 = \"       |   _____            _____    |   \"\nline8 = \"       |   |____|           |____|   |   \"\nline9 = \"       |   |____|  ______   |____|   |   \"\nline10 = \"       |           |     |           |    \"\nline11 = \"       |           |     |           |    \"",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line3",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line3 = \"          * * *              * * *       \"\nline4 = \"         **   **            **   **      \"\nline5 = \"        **     **          **     **     \"\nline6 = \"       **_______**________**_______**    \"\nline7 = \"       |   _____            _____    |   \"\nline8 = \"       |   |____|           |____|   |   \"\nline9 = \"       |   |____|  ______   |____|   |   \"\nline10 = \"       |           |     |           |    \"\nline11 = \"       |           |     |           |    \"\nline12 = \"       |__________ |_____|___________|    \"",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line4",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line4 = \"         **   **            **   **      \"\nline5 = \"        **     **          **     **     \"\nline6 = \"       **_______**________**_______**    \"\nline7 = \"       |   _____            _____    |   \"\nline8 = \"       |   |____|           |____|   |   \"\nline9 = \"       |   |____|  ______   |____|   |   \"\nline10 = \"       |           |     |           |    \"\nline11 = \"       |           |     |           |    \"\nline12 = \"       |__________ |_____|___________|    \"\nprint(line1)",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line5",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line5 = \"        **     **          **     **     \"\nline6 = \"       **_______**________**_______**    \"\nline7 = \"       |   _____            _____    |   \"\nline8 = \"       |   |____|           |____|   |   \"\nline9 = \"       |   |____|  ______   |____|   |   \"\nline10 = \"       |           |     |           |    \"\nline11 = \"       |           |     |           |    \"\nline12 = \"       |__________ |_____|___________|    \"\nprint(line1)\nprint(line2)",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line6",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line6 = \"       **_______**________**_______**    \"\nline7 = \"       |   _____            _____    |   \"\nline8 = \"       |   |____|           |____|   |   \"\nline9 = \"       |   |____|  ______   |____|   |   \"\nline10 = \"       |           |     |           |    \"\nline11 = \"       |           |     |           |    \"\nline12 = \"       |__________ |_____|___________|    \"\nprint(line1)\nprint(line2)\nprint(line3)",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line7",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line7 = \"       |   _____            _____    |   \"\nline8 = \"       |   |____|           |____|   |   \"\nline9 = \"       |   |____|  ______   |____|   |   \"\nline10 = \"       |           |     |           |    \"\nline11 = \"       |           |     |           |    \"\nline12 = \"       |__________ |_____|___________|    \"\nprint(line1)\nprint(line2)\nprint(line3)\nprint(line4)",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line8",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line8 = \"       |   |____|           |____|   |   \"\nline9 = \"       |   |____|  ______   |____|   |   \"\nline10 = \"       |           |     |           |    \"\nline11 = \"       |           |     |           |    \"\nline12 = \"       |__________ |_____|___________|    \"\nprint(line1)\nprint(line2)\nprint(line3)\nprint(line4)\nprint(line5)",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line9",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line9 = \"       |   |____|  ______   |____|   |   \"\nline10 = \"       |           |     |           |    \"\nline11 = \"       |           |     |           |    \"\nline12 = \"       |__________ |_____|___________|    \"\nprint(line1)\nprint(line2)\nprint(line3)\nprint(line4)\nprint(line5)\nprint(line6)",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line10",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line10 = \"       |           |     |           |    \"\nline11 = \"       |           |     |           |    \"\nline12 = \"       |__________ |_____|___________|    \"\nprint(line1)\nprint(line2)\nprint(line3)\nprint(line4)\nprint(line5)\nprint(line6)\nprint(line7)",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line11",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line11 = \"       |           |     |           |    \"\nline12 = \"       |__________ |_____|___________|    \"\nprint(line1)\nprint(line2)\nprint(line3)\nprint(line4)\nprint(line5)\nprint(line6)\nprint(line7)\nprint(line8)",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line12",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line12 = \"       |__________ |_____|___________|    \"\nprint(line1)\nprint(line2)\nprint(line3)\nprint(line4)\nprint(line5)\nprint(line6)\nprint(line7)\nprint(line8)\nprint(line9)",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "answer_1",
+        "kind": 5,
+        "importPath": "SCIENTIFIC CALCULATOR",
+        "description": "SCIENTIFIC CALCULATOR",
+        "peekOfCode": "answer_1 = float(num_1) + float(num_2)\nanswer_2 = float(num_1) - float(num_2)\nanswer_3 = float(num_1) * float(num_2)\nanswer_4 = float(num_1) / float(num2)\nanswer_5 = float(num) ** float(num_2)\nanswer_6 = float(num_1) * Sine(num_2)\nanswer_7 = float(num_1) * Cosine(num_2)\nanswer_8 = float(num_1) * Tangent(num_2)\nANSWER = {\"answer_1\" : float(num_1) + float(num_2),\n    \"answer_2\" : float(num_1) - float(num_2),",
+        "detail": "SCIENTIFIC CALCULATOR",
+        "documentation": {}
+    },
+    {
+        "label": "answer_2",
+        "kind": 5,
+        "importPath": "SCIENTIFIC CALCULATOR",
+        "description": "SCIENTIFIC CALCULATOR",
+        "peekOfCode": "answer_2 = float(num_1) - float(num_2)\nanswer_3 = float(num_1) * float(num_2)\nanswer_4 = float(num_1) / float(num2)\nanswer_5 = float(num) ** float(num_2)\nanswer_6 = float(num_1) * Sine(num_2)\nanswer_7 = float(num_1) * Cosine(num_2)\nanswer_8 = float(num_1) * Tangent(num_2)\nANSWER = {\"answer_1\" : float(num_1) + float(num_2),\n    \"answer_2\" : float(num_1) - float(num_2),\n    \"answer_3\" : float(num_1) * float(num_2),",
+        "detail": "SCIENTIFIC CALCULATOR",
+        "documentation": {}
+    },
+    {
+        "label": "answer_3",
+        "kind": 5,
+        "importPath": "SCIENTIFIC CALCULATOR",
+        "description": "SCIENTIFIC CALCULATOR",
+        "peekOfCode": "answer_3 = float(num_1) * float(num_2)\nanswer_4 = float(num_1) / float(num2)\nanswer_5 = float(num) ** float(num_2)\nanswer_6 = float(num_1) * Sine(num_2)\nanswer_7 = float(num_1) * Cosine(num_2)\nanswer_8 = float(num_1) * Tangent(num_2)\nANSWER = {\"answer_1\" : float(num_1) + float(num_2),\n    \"answer_2\" : float(num_1) - float(num_2),\n    \"answer_3\" : float(num_1) * float(num_2),\n    \"answer_4\" : float(num_1) / float(num2),",
+        "detail": "SCIENTIFIC CALCULATOR",
+        "documentation": {}
+    },
+    {
+        "label": "answer_4",
+        "kind": 5,
+        "importPath": "SCIENTIFIC CALCULATOR",
+        "description": "SCIENTIFIC CALCULATOR",
+        "peekOfCode": "answer_4 = float(num_1) / float(num2)\nanswer_5 = float(num) ** float(num_2)\nanswer_6 = float(num_1) * Sine(num_2)\nanswer_7 = float(num_1) * Cosine(num_2)\nanswer_8 = float(num_1) * Tangent(num_2)\nANSWER = {\"answer_1\" : float(num_1) + float(num_2),\n    \"answer_2\" : float(num_1) - float(num_2),\n    \"answer_3\" : float(num_1) * float(num_2),\n    \"answer_4\" : float(num_1) / float(num2),\n    \"answer_5\" : float(num) ** float(num_2),",
+        "detail": "SCIENTIFIC CALCULATOR",
+        "documentation": {}
+    },
+    {
+        "label": "answer_5",
+        "kind": 5,
+        "importPath": "SCIENTIFIC CALCULATOR",
+        "description": "SCIENTIFIC CALCULATOR",
+        "peekOfCode": "answer_5 = float(num) ** float(num_2)\nanswer_6 = float(num_1) * Sine(num_2)\nanswer_7 = float(num_1) * Cosine(num_2)\nanswer_8 = float(num_1) * Tangent(num_2)\nANSWER = {\"answer_1\" : float(num_1) + float(num_2),\n    \"answer_2\" : float(num_1) - float(num_2),\n    \"answer_3\" : float(num_1) * float(num_2),\n    \"answer_4\" : float(num_1) / float(num2),\n    \"answer_5\" : float(num) ** float(num_2),\n    \"answer_6\" : float(num_1) * Sine(num_2),",
+        "detail": "SCIENTIFIC CALCULATOR",
+        "documentation": {}
+    },
+    {
+        "label": "answer_6",
+        "kind": 5,
+        "importPath": "SCIENTIFIC CALCULATOR",
+        "description": "SCIENTIFIC CALCULATOR",
+        "peekOfCode": "answer_6 = float(num_1) * Sine(num_2)\nanswer_7 = float(num_1) * Cosine(num_2)\nanswer_8 = float(num_1) * Tangent(num_2)\nANSWER = {\"answer_1\" : float(num_1) + float(num_2),\n    \"answer_2\" : float(num_1) - float(num_2),\n    \"answer_3\" : float(num_1) * float(num_2),\n    \"answer_4\" : float(num_1) / float(num2),\n    \"answer_5\" : float(num) ** float(num_2),\n    \"answer_6\" : float(num_1) * Sine(num_2),\n    \"answer_7\" : float(num_1) * Cosine(num_2),",
+        "detail": "SCIENTIFIC CALCULATOR",
+        "documentation": {}
+    },
+    {
+        "label": "answer_7",
+        "kind": 5,
+        "importPath": "SCIENTIFIC CALCULATOR",
+        "description": "SCIENTIFIC CALCULATOR",
+        "peekOfCode": "answer_7 = float(num_1) * Cosine(num_2)\nanswer_8 = float(num_1) * Tangent(num_2)\nANSWER = {\"answer_1\" : float(num_1) + float(num_2),\n    \"answer_2\" : float(num_1) - float(num_2),\n    \"answer_3\" : float(num_1) * float(num_2),\n    \"answer_4\" : float(num_1) / float(num2),\n    \"answer_5\" : float(num) ** float(num_2),\n    \"answer_6\" : float(num_1) * Sine(num_2),\n    \"answer_7\" : float(num_1) * Cosine(num_2),\n    \"answer_8\" : float(num_1) * Tangent(num_2)",
+        "detail": "SCIENTIFIC CALCULATOR",
+        "documentation": {}
+    },
+    {
+        "label": "answer_8",
+        "kind": 5,
+        "importPath": "SCIENTIFIC CALCULATOR",
+        "description": "SCIENTIFIC CALCULATOR",
+        "peekOfCode": "answer_8 = float(num_1) * Tangent(num_2)\nANSWER = {\"answer_1\" : float(num_1) + float(num_2),\n    \"answer_2\" : float(num_1) - float(num_2),\n    \"answer_3\" : float(num_1) * float(num_2),\n    \"answer_4\" : float(num_1) / float(num2),\n    \"answer_5\" : float(num) ** float(num_2),\n    \"answer_6\" : float(num_1) * Sine(num_2),\n    \"answer_7\" : float(num_1) * Cosine(num_2),\n    \"answer_8\" : float(num_1) * Tangent(num_2)\n    }",
+        "detail": "SCIENTIFIC CALCULATOR",
+        "documentation": {}
+    },
+    {
+        "label": "ANSWER",
+        "kind": 5,
+        "importPath": "SCIENTIFIC CALCULATOR",
+        "description": "SCIENTIFIC CALCULATOR",
+        "peekOfCode": "ANSWER = {\"answer_1\" : float(num_1) + float(num_2),\n    \"answer_2\" : float(num_1) - float(num_2),\n    \"answer_3\" : float(num_1) * float(num_2),\n    \"answer_4\" : float(num_1) / float(num2),\n    \"answer_5\" : float(num) ** float(num_2),\n    \"answer_6\" : float(num_1) * Sine(num_2),\n    \"answer_7\" : float(num_1) * Cosine(num_2),\n    \"answer_8\" : float(num_1) * Tangent(num_2)\n    }\n #from xml.dom import SYNTAX_ERR",
+        "detail": "SCIENTIFIC CALCULATOR",
+        "documentation": {}
+    },
+    {
+        "label": "num_1",
+        "kind": 5,
+        "importPath": "SCIENTIFIC CALCULATOR",
+        "description": "SCIENTIFIC CALCULATOR",
+        "peekOfCode": "num_1 = input(\"Give a number: \")\noperator == input(\"Operator: \")\nnum_2 = input(\"Give another number: \")\nif operator == \"+\":\n    float(num_1) + float(num2)\nelif operator == \"-\":\n    float(num_1) - float(num_2)\nelif operator == \"*\":\n    float(num_1) * float(num_2)\nelif operator == \"/\":",
+        "detail": "SCIENTIFIC CALCULATOR",
+        "documentation": {}
+    },
+    {
+        "label": "num_2",
+        "kind": 5,
+        "importPath": "SCIENTIFIC CALCULATOR",
+        "description": "SCIENTIFIC CALCULATOR",
+        "peekOfCode": "num_2 = input(\"Give another number: \")\nif operator == \"+\":\n    float(num_1) + float(num2)\nelif operator == \"-\":\n    float(num_1) - float(num_2)\nelif operator == \"*\":\n    float(num_1) * float(num_2)\nelif operator == \"/\":\n    float(num_1) / float(num_2)\nelif operator == \"**\":",
+        "detail": "SCIENTIFIC CALCULATOR",
+        "documentation": {}
+    },
+    {
+        "label": "Tan",
+        "kind": 2,
+        "importPath": "TRIGNOMETRY",
+        "description": "TRIGNOMETRY",
+        "peekOfCode": "def Tan(num):\n    return  float(Sin(num)/Cos(num))\ndef Cos(num):\ndef Sine():",
+        "detail": "TRIGNOMETRY",
+        "documentation": {}
+    },
+    {
+        "label": "Cos",
+        "kind": 2,
+        "importPath": "TRIGNOMETRY",
+        "description": "TRIGNOMETRY",
+        "peekOfCode": "def Cos(num):\ndef Sine():",
+        "detail": "TRIGNOMETRY",
+        "documentation": {}
+    },
+    {
+        "label": "Sine",
+        "kind": 2,
+        "importPath": "TRIGNOMETRY",
+        "description": "TRIGNOMETRY",
+        "peekOfCode": "def Sine():",
+        "detail": "TRIGNOMETRY",
+        "documentation": {}
+    }
+]

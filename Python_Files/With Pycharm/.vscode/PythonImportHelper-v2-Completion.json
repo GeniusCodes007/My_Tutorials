@@ -1,0 +1,1148 @@
+[
+    {
+        "label": "SQUARE",
+        "importPath": "frequents",
+        "description": "frequents",
+        "isExtraImport": true,
+        "detail": "frequents",
+        "documentation": {}
+    },
+    {
+        "label": "SQUARE_ROOT",
+        "importPath": "frequents",
+        "description": "frequents",
+        "isExtraImport": true,
+        "detail": "frequents",
+        "documentation": {}
+    },
+    {
+        "label": "sqrt",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "sqrt",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "cos",
+        "importPath": "cmath",
+        "description": "cmath",
+        "isExtraImport": true,
+        "detail": "cmath",
+        "documentation": {}
+    },
+    {
+        "label": "sin",
+        "importPath": "cmath",
+        "description": "cmath",
+        "isExtraImport": true,
+        "detail": "cmath",
+        "documentation": {}
+    },
+    {
+        "label": "tan",
+        "importPath": "cmath",
+        "description": "cmath",
+        "isExtraImport": true,
+        "detail": "cmath",
+        "documentation": {}
+    },
+    {
+        "label": "FINDING_C",
+        "importPath": "trignometry",
+        "description": "trignometry",
+        "isExtraImport": true,
+        "detail": "trignometry",
+        "documentation": {}
+    },
+    {
+        "label": "FINDING_A",
+        "importPath": "trignometry",
+        "description": "trignometry",
+        "isExtraImport": true,
+        "detail": "trignometry",
+        "documentation": {}
+    },
+    {
+        "label": "FINDING_B",
+        "importPath": "trignometry",
+        "description": "trignometry",
+        "isExtraImport": true,
+        "detail": "trignometry",
+        "documentation": {}
+    },
+    {
+        "label": "FINDING_C",
+        "importPath": "trignometry",
+        "description": "trignometry",
+        "isExtraImport": true,
+        "detail": "trignometry",
+        "documentation": {}
+    },
+    {
+        "label": "FINDING_A",
+        "importPath": "trignometry",
+        "description": "trignometry",
+        "isExtraImport": true,
+        "detail": "trignometry",
+        "documentation": {}
+    },
+    {
+        "label": "FINDING_B",
+        "importPath": "trignometry",
+        "description": "trignometry",
+        "isExtraImport": true,
+        "detail": "trignometry",
+        "documentation": {}
+    },
+    {
+        "label": "result1",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "2D and Nested Loops",
+        "description": "2D and Nested Loops",
+        "peekOfCode": "numbers = [\n    [1, 6, 7, 8],\n    [5, 9, 4, 1],\n    [2, 3, 10, 21],\n    [24, 45, 87],\n    [65, 89],\n    [78]\n]\nprint(numbers)\nprint(numbers[0])",
+        "detail": "2D and Nested Loops",
+        "documentation": {}
+    },
+    {
+        "label": "num1",
+        "kind": 5,
+        "importPath": "ADVANCED CALCULATOR",
+        "description": "ADVANCED CALCULATOR",
+        "peekOfCode": "num1 = float(input(\"Enter a number: \"))\noperator = input(\"Operator: \")\nnum2 = float(input(\"Enter a second number: \"))\nif operator == \"+\":\n    print(num1+num2)\nelif operator == \"-\":\n    print(num1-num2)\nelif operator == \"*\":\n    print(num1*num2)\nelif operator == \"/\":",
+        "detail": "ADVANCED CALCULATOR",
+        "documentation": {}
+    },
+    {
+        "label": "operator",
+        "kind": 5,
+        "importPath": "ADVANCED CALCULATOR",
+        "description": "ADVANCED CALCULATOR",
+        "peekOfCode": "operator = input(\"Operator: \")\nnum2 = float(input(\"Enter a second number: \"))\nif operator == \"+\":\n    print(num1+num2)\nelif operator == \"-\":\n    print(num1-num2)\nelif operator == \"*\":\n    print(num1*num2)\nelif operator == \"/\":\n    print(num1/num2)",
+        "detail": "ADVANCED CALCULATOR",
+        "documentation": {}
+    },
+    {
+        "label": "num2",
+        "kind": 5,
+        "importPath": "ADVANCED CALCULATOR",
+        "description": "ADVANCED CALCULATOR",
+        "peekOfCode": "num2 = float(input(\"Enter a second number: \"))\nif operator == \"+\":\n    print(num1+num2)\nelif operator == \"-\":\n    print(num1-num2)\nelif operator == \"*\":\n    print(num1*num2)\nelif operator == \"/\":\n    print(num1/num2)\nelif operator == \"^\":",
+        "detail": "ADVANCED CALCULATOR",
+        "documentation": {}
+    },
+    {
+        "label": "#Book",
+        "kind": 5,
+        "importPath": "ADVANCED CALCULATOR",
+        "description": "ADVANCED CALCULATOR",
+        "peekOfCode": "#Book = \"A piece of information put together\"\n#meaning = input(\"Enter a word: \")\n#if meaning == \"Book\":\n#    print(Book)\n#else:\n#    print(\"CHECK YOUR SPELLING\")",
+        "detail": "ADVANCED CALCULATOR",
+        "documentation": {}
+    },
+    {
+        "label": "#meaning",
+        "kind": 5,
+        "importPath": "ADVANCED CALCULATOR",
+        "description": "ADVANCED CALCULATOR",
+        "peekOfCode": "#meaning = input(\"Enter a word: \")\n#if meaning == \"Book\":\n#    print(Book)\n#else:\n#    print(\"CHECK YOUR SPELLING\")",
+        "detail": "ADVANCED CALCULATOR",
+        "documentation": {}
+    },
+    {
+        "label": "gen",
+        "kind": 2,
+        "importPath": "calc",
+        "description": "calc",
+        "peekOfCode": "def gen(num1, num2, num3):\n    num1 = \"\"\n    num2 = \"\"\n    num3 = \"\"\n    num1 = input(\"Give C: \")\n    num2 = input(\"Give A: \")\n    num3 = input(\"Give B: \")\n    d = num1 == float()  #False  #True  #True\n    e = num2 == float()  #True  #False  #True\n    f = num3 == float()  #True  #True  #False",
+        "detail": "calc",
+        "documentation": {}
+    },
+    {
+        "label": "greeting",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "greeting = \"*    Good Morning!!!   *\"\n#print(greeting)\nfirst = \"************************\"\nsecond = \"*                      *\"\nthird = \"************************\"\nprint(first)\n#print(second)\nprint(greeting)                     \nprint(third)\nline1 = \"            *                  *         \"",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "first",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "first = \"************************\"\nsecond = \"*                      *\"\nthird = \"************************\"\nprint(first)\n#print(second)\nprint(greeting)                     \nprint(third)\nline1 = \"            *                  *         \"\nline2 = \"           * *                * *        \"\nline3 = \"          * * *              * * *       \"",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "second",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "second = \"*                      *\"\nthird = \"************************\"\nprint(first)\n#print(second)\nprint(greeting)                     \nprint(third)\nline1 = \"            *                  *         \"\nline2 = \"           * *                * *        \"\nline3 = \"          * * *              * * *       \"\nline4 = \"         **   **            **   **      \"",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "third",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "third = \"************************\"\nprint(first)\n#print(second)\nprint(greeting)                     \nprint(third)\nline1 = \"            *                  *         \"\nline2 = \"           * *                * *        \"\nline3 = \"          * * *              * * *       \"\nline4 = \"         **   **            **   **      \"\nline5 = \"        **     **          **     **     \"",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line1",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line1 = \"            *                  *         \"\nline2 = \"           * *                * *        \"\nline3 = \"          * * *              * * *       \"\nline4 = \"         **   **            **   **      \"\nline5 = \"        **     **          **     **     \"\nline6 = \"       **_______**________**_______**    \"\nline7 = \"       |   _____            _____    |   \"\nline8 = \"       |   |____|           |____|   |   \"\nline9 = \"       |   |____|  ______   |____|   |   \"\nline10 = \"       |           |     |           |    \"",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line2",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line2 = \"           * *                * *        \"\nline3 = \"          * * *              * * *       \"\nline4 = \"         **   **            **   **      \"\nline5 = \"        **     **          **     **     \"\nline6 = \"       **_______**________**_______**    \"\nline7 = \"       |   _____            _____    |   \"\nline8 = \"       |   |____|           |____|   |   \"\nline9 = \"       |   |____|  ______   |____|   |   \"\nline10 = \"       |           |     |           |    \"\nline11 = \"       |           |     |           |    \"",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line3",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line3 = \"          * * *              * * *       \"\nline4 = \"         **   **            **   **      \"\nline5 = \"        **     **          **     **     \"\nline6 = \"       **_______**________**_______**    \"\nline7 = \"       |   _____            _____    |   \"\nline8 = \"       |   |____|           |____|   |   \"\nline9 = \"       |   |____|  ______   |____|   |   \"\nline10 = \"       |           |     |           |    \"\nline11 = \"       |           |     |           |    \"\nline12 = \"       |__________ |_____|___________|    \"",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line4",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line4 = \"         **   **            **   **      \"\nline5 = \"        **     **          **     **     \"\nline6 = \"       **_______**________**_______**    \"\nline7 = \"       |   _____            _____    |   \"\nline8 = \"       |   |____|           |____|   |   \"\nline9 = \"       |   |____|  ______   |____|   |   \"\nline10 = \"       |           |     |           |    \"\nline11 = \"       |           |     |           |    \"\nline12 = \"       |__________ |_____|___________|    \"\nprint(line1)",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line5",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line5 = \"        **     **          **     **     \"\nline6 = \"       **_______**________**_______**    \"\nline7 = \"       |   _____            _____    |   \"\nline8 = \"       |   |____|           |____|   |   \"\nline9 = \"       |   |____|  ______   |____|   |   \"\nline10 = \"       |           |     |           |    \"\nline11 = \"       |           |     |           |    \"\nline12 = \"       |__________ |_____|___________|    \"\nprint(line1)\nprint(line2)",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line6",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line6 = \"       **_______**________**_______**    \"\nline7 = \"       |   _____            _____    |   \"\nline8 = \"       |   |____|           |____|   |   \"\nline9 = \"       |   |____|  ______   |____|   |   \"\nline10 = \"       |           |     |           |    \"\nline11 = \"       |           |     |           |    \"\nline12 = \"       |__________ |_____|___________|    \"\nprint(line1)\nprint(line2)\nprint(line3)",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line7",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line7 = \"       |   _____            _____    |   \"\nline8 = \"       |   |____|           |____|   |   \"\nline9 = \"       |   |____|  ______   |____|   |   \"\nline10 = \"       |           |     |           |    \"\nline11 = \"       |           |     |           |    \"\nline12 = \"       |__________ |_____|___________|    \"\nprint(line1)\nprint(line2)\nprint(line3)\nprint(line4)",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line8",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line8 = \"       |   |____|           |____|   |   \"\nline9 = \"       |   |____|  ______   |____|   |   \"\nline10 = \"       |           |     |           |    \"\nline11 = \"       |           |     |           |    \"\nline12 = \"       |__________ |_____|___________|    \"\nprint(line1)\nprint(line2)\nprint(line3)\nprint(line4)\nprint(line5)",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line9",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line9 = \"       |   |____|  ______   |____|   |   \"\nline10 = \"       |           |     |           |    \"\nline11 = \"       |           |     |           |    \"\nline12 = \"       |__________ |_____|___________|    \"\nprint(line1)\nprint(line2)\nprint(line3)\nprint(line4)\nprint(line5)\nprint(line6)",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line10",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line10 = \"       |           |     |           |    \"\nline11 = \"       |           |     |           |    \"\nline12 = \"       |__________ |_____|___________|    \"\nprint(line1)\nprint(line2)\nprint(line3)\nprint(line4)\nprint(line5)\nprint(line6)\nprint(line7)",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line11",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line11 = \"       |           |     |           |    \"\nline12 = \"       |__________ |_____|___________|    \"\nprint(line1)\nprint(line2)\nprint(line3)\nprint(line4)\nprint(line5)\nprint(line6)\nprint(line7)\nprint(line8)",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line12",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line12 = \"       |__________ |_____|___________|    \"\nprint(line1)\nprint(line2)\nprint(line3)\nprint(line4)\nprint(line5)\nprint(line6)\nprint(line7)\nprint(line8)\nprint(line9)",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "num_1",
+        "kind": 5,
+        "importPath": "COUNT_STEP",
+        "description": "COUNT_STEP",
+        "peekOfCode": "num_1 = float(input(\"Give a number: \"))\noperator = input(\"Operator: \")\nnum_2 = float(input(\"Give another number: \"))\nanswers ={\n    \"result1\": float(num_1) + float(num_2),\n    \"result2\": float(num_1) - float(num_2),\n    \"result3\": float(num_1) * float(num_2),\n    \"result4\": float(num_1) / float(num_2),\n    \"result5\": float(num_1) ** float(num_2),\n    \"result6\": float(num_2) // float(num_1),",
+        "detail": "COUNT_STEP",
+        "documentation": {}
+    },
+    {
+        "label": "operator",
+        "kind": 5,
+        "importPath": "COUNT_STEP",
+        "description": "COUNT_STEP",
+        "peekOfCode": "operator = input(\"Operator: \")\nnum_2 = float(input(\"Give another number: \"))\nanswers ={\n    \"result1\": float(num_1) + float(num_2),\n    \"result2\": float(num_1) - float(num_2),\n    \"result3\": float(num_1) * float(num_2),\n    \"result4\": float(num_1) / float(num_2),\n    \"result5\": float(num_1) ** float(num_2),\n    \"result6\": float(num_2) // float(num_1),\n#    \"result7\": float(num_1) * Sine(float(num_2)),",
+        "detail": "COUNT_STEP",
+        "documentation": {}
+    },
+    {
+        "label": "num_2",
+        "kind": 5,
+        "importPath": "COUNT_STEP",
+        "description": "COUNT_STEP",
+        "peekOfCode": "num_2 = float(input(\"Give another number: \"))\nanswers ={\n    \"result1\": float(num_1) + float(num_2),\n    \"result2\": float(num_1) - float(num_2),\n    \"result3\": float(num_1) * float(num_2),\n    \"result4\": float(num_1) / float(num_2),\n    \"result5\": float(num_1) ** float(num_2),\n    \"result6\": float(num_2) // float(num_1),\n#    \"result7\": float(num_1) * Sine(float(num_2)),\n#    \"result8\": float(num_1) * Cosine(float(num_2)),",
+        "detail": "COUNT_STEP",
+        "documentation": {}
+    },
+    {
+        "label": "step_count",
+        "kind": 5,
+        "importPath": "COUNT_STEP",
+        "description": "COUNT_STEP",
+        "peekOfCode": "step_count = 0\nfor result1 in answers:\n    step_count += 1\n    while step_count < 6:\n        print(\"again\")\n        num_1 = input(\"Give a number: \")\n        operator = input(\"Operator: \")\n        num_2 = input(\"Give another number: \")\n        print(result1)\n        if step_count == 6:",
+        "detail": "COUNT_STEP",
+        "documentation": {}
+    },
+    {
+        "label": "step_count",
+        "kind": 2,
+        "importPath": "COUNT_STEP_1",
+        "description": "COUNT_STEP_1",
+        "peekOfCode": "def step_count(ANSWER):\n    for index in ANSWER:\n        step_count += 1",
+        "detail": "COUNT_STEP_1",
+        "documentation": {}
+    },
+    {
+        "label": "ANSWER",
+        "kind": 5,
+        "importPath": "COUNT_STEP_1",
+        "description": "COUNT_STEP_1",
+        "peekOfCode": "ANSWER = {answer1 = float(num_1) + float(num_2),\n          answer2 = float(num_2) - float(num_2),\n          answer3 = float(num_1) * float(num_2),\n          answer4 = float(num_1) / float(num_2),\n          answer5 = float(num_1) ** float(num_2),\n          answer6 = float(num_1) // float(num_2)\n          }\ndef step_count(ANSWER):\n    for index in ANSWER:\n        step_count += 1",
+        "detail": "COUNT_STEP_1",
+        "documentation": {}
+    },
+    {
+        "label": "raise_to_power",
+        "kind": 2,
+        "importPath": "EXPONENTIAL FUNCTIONS",
+        "description": "EXPONENTIAL FUNCTIONS",
+        "peekOfCode": "def raise_to_power(int(base_num), int(pow_num)):\n    result2 = int(base_num) ** int(pow_num)\n    #for index in range(pow_num):\n        #result2 = result ** pow_num\n    return result2\n#print(raise_to_power(4, 5))\nprint(result2)",
+        "detail": "EXPONENTIAL FUNCTIONS",
+        "documentation": {}
+    },
+    {
+        "label": "base_num",
+        "kind": 5,
+        "importPath": "EXPONENTIAL FUNCTIONS",
+        "description": "EXPONENTIAL FUNCTIONS",
+        "peekOfCode": "base_num = input(int(\"Base Number: \"))\npow_num = input(int(\"Power Number: \"))\ndef raise_to_power(int(base_num), int(pow_num)):\n    result2 = int(base_num) ** int(pow_num)\n    #for index in range(pow_num):\n        #result2 = result ** pow_num\n    return result2\n#print(raise_to_power(4, 5))\nprint(result2)",
+        "detail": "EXPONENTIAL FUNCTIONS",
+        "documentation": {}
+    },
+    {
+        "label": "pow_num",
+        "kind": 5,
+        "importPath": "EXPONENTIAL FUNCTIONS",
+        "description": "EXPONENTIAL FUNCTIONS",
+        "peekOfCode": "pow_num = input(int(\"Power Number: \"))\ndef raise_to_power(int(base_num), int(pow_num)):\n    result2 = int(base_num) ** int(pow_num)\n    #for index in range(pow_num):\n        #result2 = result ** pow_num\n    return result2\n#print(raise_to_power(4, 5))\nprint(result2)",
+        "detail": "EXPONENTIAL FUNCTIONS",
+        "documentation": {}
+    },
+    {
+        "label": "max_num",
+        "kind": 2,
+        "importPath": "first time",
+        "description": "first time",
+        "peekOfCode": "def max_num(my_num1, my_num2):\n    if my_num1 > my_num2:\n        return my_num1\n    else:\n        return my_num2\nif operator == \"+\":\n    ANSWER = ( int(my_num1) + int(my_num2) )\nelif operator == \"-\":\n    ANSWER = ( int(my_num1) - int(my_num2) )\nelif operator == \"*\":",
+        "detail": "first time",
+        "documentation": {}
+    },
+    {
+        "label": "my_num1",
+        "kind": 5,
+        "importPath": "first time",
+        "description": "first time",
+        "peekOfCode": "my_num1 = input(\"Enter a number: \")\noperator = input(\"Operator: \")\nmy_num2 = input(\"Enter another number: \")\nfrom math import sqrt\ndef max_num(my_num1, my_num2):\n    if my_num1 > my_num2:\n        return my_num1\n    else:\n        return my_num2\nif operator == \"+\":",
+        "detail": "first time",
+        "documentation": {}
+    },
+    {
+        "label": "operator",
+        "kind": 5,
+        "importPath": "first time",
+        "description": "first time",
+        "peekOfCode": "operator = input(\"Operator: \")\nmy_num2 = input(\"Enter another number: \")\nfrom math import sqrt\ndef max_num(my_num1, my_num2):\n    if my_num1 > my_num2:\n        return my_num1\n    else:\n        return my_num2\nif operator == \"+\":\n    ANSWER = ( int(my_num1) + int(my_num2) )",
+        "detail": "first time",
+        "documentation": {}
+    },
+    {
+        "label": "my_num2",
+        "kind": 5,
+        "importPath": "first time",
+        "description": "first time",
+        "peekOfCode": "my_num2 = input(\"Enter another number: \")\nfrom math import sqrt\ndef max_num(my_num1, my_num2):\n    if my_num1 > my_num2:\n        return my_num1\n    else:\n        return my_num2\nif operator == \"+\":\n    ANSWER = ( int(my_num1) + int(my_num2) )\nelif operator == \"-\":",
+        "detail": "first time",
+        "documentation": {}
+    },
+    {
+        "label": "prints",
+        "kind": 5,
+        "importPath": "first time",
+        "description": "first time",
+        "peekOfCode": "prints = [[]\n]\nANSWER = { \"print1\" : int(my_num1) + int(my_num2),\n    \"print2\" : int(my_num1) - int(my_num2),\n    \"print3\" : int(my_num1) * int(my_num2),\n    \"print4\" : int(my_num1) / int(my_num2),\n    \"print5\" : int(my_num1) ** int(my_num2),\n    \"print6\" : int(my_num1) % int(my_num2),\n    \"print7\" : sqrt(int(my_num1))                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               bbbbbbbbbbbbbbbbbbbbbbbbbbb                                                   bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb                                      bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb                             bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb                                                       bbbbbbbbbbbbb                                                                                                            bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb                             bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb                            bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb                                                                                                                                                                                                              bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb                           bbbbbbbbbbbbbbbbbbbbbbb                                                                                                       bbbbbbbbbbbbbbbbbbbb                                                                                               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb                              bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb            bbbbbbbbbbbbbbbbbbbbb rint7\" : sqrt(int(my_num1)) \n    }",
+        "detail": "first time",
+        "documentation": {}
+    },
+    {
+        "label": "ANSWER",
+        "kind": 5,
+        "importPath": "first time",
+        "description": "first time",
+        "peekOfCode": "ANSWER = { \"print1\" : int(my_num1) + int(my_num2),\n    \"print2\" : int(my_num1) - int(my_num2),\n    \"print3\" : int(my_num1) * int(my_num2),\n    \"print4\" : int(my_num1) / int(my_num2),\n    \"print5\" : int(my_num1) ** int(my_num2),\n    \"print6\" : int(my_num1) % int(my_num2),\n    \"print7\" : sqrt(int(my_num1))                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               bbbbbbbbbbbbbbbbbbbbbbbbbbb                                                   bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb                                      bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb                             bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb                                                       bbbbbbbbbbbbb                                                                                                            bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb                             bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb                            bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb                                                                                                                                                                                                              bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb                           bbbbbbbbbbbbbbbbbbbbbbb                                                                                                       bbbbbbbbbbbbbbbbbbbb                                                                                               bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb                              bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb            bbbbbbbbbbbbbbbbbbbbb rint7\" : sqrt(int(my_num1)) \n    }\nline_count = 0\nline_limit = 5",
+        "detail": "first time",
+        "documentation": {}
+    },
+    {
+        "label": "line_count",
+        "kind": 5,
+        "importPath": "first time",
+        "description": "first time",
+        "peekOfCode": "line_count = 0\nline_limit = 5\nout_of_steps = False\nfor row in ANSWER:\n    line_count += 1\nwhile line_count != line_limit and not(out_of_steps):\n    line_count < line_limit:\n        my_num1 = input(\"Enter a number: \")\n        operator = input(\"Operator:\")\n        my_num2 = input(\"Enter another number: \")",
+        "detail": "first time",
+        "documentation": {}
+    },
+    {
+        "label": "line_limit",
+        "kind": 5,
+        "importPath": "first time",
+        "description": "first time",
+        "peekOfCode": "line_limit = 5\nout_of_steps = False\nfor row in ANSWER:\n    line_count += 1\nwhile line_count != line_limit and not(out_of_steps):\n    line_count < line_limit:\n        my_num1 = input(\"Enter a number: \")\n        operator = input(\"Operator:\")\n        my_num2 = input(\"Enter another number: \")\n        step_count += 1",
+        "detail": "first time",
+        "documentation": {}
+    },
+    {
+        "label": "out_of_steps",
+        "kind": 5,
+        "importPath": "first time",
+        "description": "first time",
+        "peekOfCode": "out_of_steps = False\nfor row in ANSWER:\n    line_count += 1\nwhile line_count != line_limit and not(out_of_steps):\n    line_count < line_limit:\n        my_num1 = input(\"Enter a number: \")\n        operator = input(\"Operator:\")\n        my_num2 = input(\"Enter another number: \")\n        step_count += 1\n    else:",
+        "detail": "first time",
+        "documentation": {}
+    },
+    {
+        "label": "#is_male",
+        "kind": 5,
+        "importPath": "first time",
+        "description": "first time",
+        "peekOfCode": "#is_male = True\n#is_tall = False\n#if is_male or is_tall:\n    #print(\"YOU ARE GOOD TO GO.\")\n#else:\n    #print(\"GO BACK\")\n    #print(\"HAVE A NICE DAY\")",
+        "detail": "first time",
+        "documentation": {}
+    },
+    {
+        "label": "#is_tall",
+        "kind": 5,
+        "importPath": "first time",
+        "description": "first time",
+        "peekOfCode": "#is_tall = False\n#if is_male or is_tall:\n    #print(\"YOU ARE GOOD TO GO.\")\n#else:\n    #print(\"GO BACK\")\n    #print(\"HAVE A NICE DAY\")",
+        "detail": "first time",
+        "documentation": {}
+    },
+    {
+        "label": "SQUARE",
+        "kind": 2,
+        "importPath": "frequents",
+        "description": "frequents",
+        "peekOfCode": "def SQUARE(num):\n    return ((float(num))**(float(2)))\ndef SQUARE_ROOT(num):\n    return ((float(num))**(float(0.5)))\ndef PERCENTAGE(num1, num2):\n    return ((float(num1))*(float(num2)))/((float(100)))",
+        "detail": "frequents",
+        "documentation": {}
+    },
+    {
+        "label": "SQUARE_ROOT",
+        "kind": 2,
+        "importPath": "frequents",
+        "description": "frequents",
+        "peekOfCode": "def SQUARE_ROOT(num):\n    return ((float(num))**(float(0.5)))\ndef PERCENTAGE(num1, num2):\n    return ((float(num1))*(float(num2)))/((float(100)))",
+        "detail": "frequents",
+        "documentation": {}
+    },
+    {
+        "label": "PERCENTAGE",
+        "kind": 2,
+        "importPath": "frequents",
+        "description": "frequents",
+        "peekOfCode": "def PERCENTAGE(num1, num2):\n    return ((float(num1))*(float(num2)))/((float(100)))",
+        "detail": "frequents",
+        "documentation": {}
+    },
+    {
+        "label": "say_hello",
+        "kind": 2,
+        "importPath": "functions",
+        "description": "functions",
+        "peekOfCode": "def say_hello(name, age):\n    print(\"Hello \" + name + \", You Are Welcome To Genius Programming Schools International.\" + \" You are \" + str(age) + \" years old.\")\nsay_hello(name, age)\ndef cube(num):\n    return num * num * num\nprint(cube(10))",
+        "detail": "functions",
+        "documentation": {}
+    },
+    {
+        "label": "cube",
+        "kind": 2,
+        "importPath": "functions",
+        "description": "functions",
+        "peekOfCode": "def cube(num):\n    return num * num * num\nprint(cube(10))",
+        "detail": "functions",
+        "documentation": {}
+    },
+    {
+        "label": "surname",
+        "kind": 5,
+        "importPath": "functions",
+        "description": "functions",
+        "peekOfCode": "surname = input(\"Surname:\")\nfirstname = input(\"Firstname:\")\nlastname = input(\"Lastname:\")\nage = input(\"How Old Are You:\")\nname = (surname.upper() + \" \" + firstname.upper() + \" \" +lastname.upper())\ndef say_hello(name, age):\n    print(\"Hello \" + name + \", You Are Welcome To Genius Programming Schools International.\" + \" You are \" + str(age) + \" years old.\")\nsay_hello(name, age)\ndef cube(num):\n    return num * num * num",
+        "detail": "functions",
+        "documentation": {}
+    },
+    {
+        "label": "firstname",
+        "kind": 5,
+        "importPath": "functions",
+        "description": "functions",
+        "peekOfCode": "firstname = input(\"Firstname:\")\nlastname = input(\"Lastname:\")\nage = input(\"How Old Are You:\")\nname = (surname.upper() + \" \" + firstname.upper() + \" \" +lastname.upper())\ndef say_hello(name, age):\n    print(\"Hello \" + name + \", You Are Welcome To Genius Programming Schools International.\" + \" You are \" + str(age) + \" years old.\")\nsay_hello(name, age)\ndef cube(num):\n    return num * num * num\nprint(cube(10))",
+        "detail": "functions",
+        "documentation": {}
+    },
+    {
+        "label": "lastname",
+        "kind": 5,
+        "importPath": "functions",
+        "description": "functions",
+        "peekOfCode": "lastname = input(\"Lastname:\")\nage = input(\"How Old Are You:\")\nname = (surname.upper() + \" \" + firstname.upper() + \" \" +lastname.upper())\ndef say_hello(name, age):\n    print(\"Hello \" + name + \", You Are Welcome To Genius Programming Schools International.\" + \" You are \" + str(age) + \" years old.\")\nsay_hello(name, age)\ndef cube(num):\n    return num * num * num\nprint(cube(10))",
+        "detail": "functions",
+        "documentation": {}
+    },
+    {
+        "label": "age",
+        "kind": 5,
+        "importPath": "functions",
+        "description": "functions",
+        "peekOfCode": "age = input(\"How Old Are You:\")\nname = (surname.upper() + \" \" + firstname.upper() + \" \" +lastname.upper())\ndef say_hello(name, age):\n    print(\"Hello \" + name + \", You Are Welcome To Genius Programming Schools International.\" + \" You are \" + str(age) + \" years old.\")\nsay_hello(name, age)\ndef cube(num):\n    return num * num * num\nprint(cube(10))",
+        "detail": "functions",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 5,
+        "importPath": "functions",
+        "description": "functions",
+        "peekOfCode": "name = (surname.upper() + \" \" + firstname.upper() + \" \" +lastname.upper())\ndef say_hello(name, age):\n    print(\"Hello \" + name + \", You Are Welcome To Genius Programming Schools International.\" + \" You are \" + str(age) + \" years old.\")\nsay_hello(name, age)\ndef cube(num):\n    return num * num * num\nprint(cube(10))",
+        "detail": "functions",
+        "documentation": {}
+    },
+    {
+        "label": "#secret_word",
+        "kind": 5,
+        "importPath": "GUESSING GAME",
+        "description": "GUESSING GAME",
+        "peekOfCode": "#secret_word = \"MATHS\"\n#guess_it = \"\"\n#guess_it_count = 0\n#guess_it_limit = 5\n#out_of_guess = False\n#while guess_it != secret_word and not(out_of_guess):\n#    if guess_it_count < guess_it_limit:\n#        guess_it = input(\"TELL US WHAT YOU THINK: \")\n#        guess_it_count += 1\n#    else:",
+        "detail": "GUESSING GAME",
+        "documentation": {}
+    },
+    {
+        "label": "#guess_it",
+        "kind": 5,
+        "importPath": "GUESSING GAME",
+        "description": "GUESSING GAME",
+        "peekOfCode": "#guess_it = \"\"\n#guess_it_count = 0\n#guess_it_limit = 5\n#out_of_guess = False\n#while guess_it != secret_word and not(out_of_guess):\n#    if guess_it_count < guess_it_limit:\n#        guess_it = input(\"TELL US WHAT YOU THINK: \")\n#        guess_it_count += 1\n#    else:\n#        out_of_guess = True",
+        "detail": "GUESSING GAME",
+        "documentation": {}
+    },
+    {
+        "label": "#guess_it_count",
+        "kind": 5,
+        "importPath": "GUESSING GAME",
+        "description": "GUESSING GAME",
+        "peekOfCode": "#guess_it_count = 0\n#guess_it_limit = 5\n#out_of_guess = False\n#while guess_it != secret_word and not(out_of_guess):\n#    if guess_it_count < guess_it_limit:\n#        guess_it = input(\"TELL US WHAT YOU THINK: \")\n#        guess_it_count += 1\n#    else:\n#        out_of_guess = True\n#if out_of_guess:",
+        "detail": "GUESSING GAME",
+        "documentation": {}
+    },
+    {
+        "label": "#guess_it_limit",
+        "kind": 5,
+        "importPath": "GUESSING GAME",
+        "description": "GUESSING GAME",
+        "peekOfCode": "#guess_it_limit = 5\n#out_of_guess = False\n#while guess_it != secret_word and not(out_of_guess):\n#    if guess_it_count < guess_it_limit:\n#        guess_it = input(\"TELL US WHAT YOU THINK: \")\n#        guess_it_count += 1\n#    else:\n#        out_of_guess = True\n#if out_of_guess:\n#    print(\"YOU'RE UNLUCKY, TRY HARDER NEXT TIME.\")",
+        "detail": "GUESSING GAME",
+        "documentation": {}
+    },
+    {
+        "label": "#out_of_guess",
+        "kind": 5,
+        "importPath": "GUESSING GAME",
+        "description": "GUESSING GAME",
+        "peekOfCode": "#out_of_guess = False\n#while guess_it != secret_word and not(out_of_guess):\n#    if guess_it_count < guess_it_limit:\n#        guess_it = input(\"TELL US WHAT YOU THINK: \")\n#        guess_it_count += 1\n#    else:\n#        out_of_guess = True\n#if out_of_guess:\n#    print(\"YOU'RE UNLUCKY, TRY HARDER NEXT TIME.\")\n#else:",
+        "detail": "GUESSING GAME",
+        "documentation": {}
+    },
+    {
+        "label": "rms",
+        "kind": 5,
+        "importPath": "GUESSING GAME",
+        "description": "GUESSING GAME",
+        "peekOfCode": "rms = [\"IFE\", \"PAUL\", \"MIKE\", \"CHRIS\", \"OKEY\"]\nlen(rms)\nfor index in range(len(rms)):\n    print(rms[index])\nfor rm in rms:\n    print(rm)\n    print(index, rm)\nfor index in range(15):\n    print(index)\nfor index in range(1, 14):",
+        "detail": "GUESSING GAME",
+        "documentation": {}
+    },
+    {
+        "label": "max_num",
+        "kind": 2,
+        "importPath": "IF STATEMENTS",
+        "description": "IF STATEMENTS",
+        "peekOfCode": "def max_num(num1, num2, num3):\n    if num1 > num2 and num1 > num3:\n        return num1\n    elif num2 > num1 and num2 > num3:\n        return num2\n    else:\n        return num3\nprint(max_num(4500,23, 9))\nprint(\"while loops\".upper())\nu = 4",
+        "detail": "IF STATEMENTS",
+        "documentation": {}
+    },
+    {
+        "label": "is_male",
+        "kind": 5,
+        "importPath": "IF STATEMENTS",
+        "description": "IF STATEMENTS",
+        "peekOfCode": "is_male = True\nis_female = True\nis_boulder = True\nis_slender = True\nis_fair = True\nis_dark = True\nis_tall = True\nif is_fair and is_tall and not(is_female):\n    print(\"She is \" + \"elegant.\".upper())\nelse:",
+        "detail": "IF STATEMENTS",
+        "documentation": {}
+    },
+    {
+        "label": "is_female",
+        "kind": 5,
+        "importPath": "IF STATEMENTS",
+        "description": "IF STATEMENTS",
+        "peekOfCode": "is_female = True\nis_boulder = True\nis_slender = True\nis_fair = True\nis_dark = True\nis_tall = True\nif is_fair and is_tall and not(is_female):\n    print(\"She is \" + \"elegant.\".upper())\nelse:\n    print(\"She is ugly.\")",
+        "detail": "IF STATEMENTS",
+        "documentation": {}
+    },
+    {
+        "label": "is_boulder",
+        "kind": 5,
+        "importPath": "IF STATEMENTS",
+        "description": "IF STATEMENTS",
+        "peekOfCode": "is_boulder = True\nis_slender = True\nis_fair = True\nis_dark = True\nis_tall = True\nif is_fair and is_tall and not(is_female):\n    print(\"She is \" + \"elegant.\".upper())\nelse:\n    print(\"She is ugly.\")\nif is_dark and is_boulder or (is_tall):",
+        "detail": "IF STATEMENTS",
+        "documentation": {}
+    },
+    {
+        "label": "is_slender",
+        "kind": 5,
+        "importPath": "IF STATEMENTS",
+        "description": "IF STATEMENTS",
+        "peekOfCode": "is_slender = True\nis_fair = True\nis_dark = True\nis_tall = True\nif is_fair and is_tall and not(is_female):\n    print(\"She is \" + \"elegant.\".upper())\nelse:\n    print(\"She is ugly.\")\nif is_dark and is_boulder or (is_tall):\n    print(\"She is \" + \"ugly and a dwarf.\".upper())",
+        "detail": "IF STATEMENTS",
+        "documentation": {}
+    },
+    {
+        "label": "is_fair",
+        "kind": 5,
+        "importPath": "IF STATEMENTS",
+        "description": "IF STATEMENTS",
+        "peekOfCode": "is_fair = True\nis_dark = True\nis_tall = True\nif is_fair and is_tall and not(is_female):\n    print(\"She is \" + \"elegant.\".upper())\nelse:\n    print(\"She is ugly.\")\nif is_dark and is_boulder or (is_tall):\n    print(\"She is \" + \"ugly and a dwarf.\".upper())\nelif is_male and not (is_dark):",
+        "detail": "IF STATEMENTS",
+        "documentation": {}
+    },
+    {
+        "label": "is_dark",
+        "kind": 5,
+        "importPath": "IF STATEMENTS",
+        "description": "IF STATEMENTS",
+        "peekOfCode": "is_dark = True\nis_tall = True\nif is_fair and is_tall and not(is_female):\n    print(\"She is \" + \"elegant.\".upper())\nelse:\n    print(\"She is ugly.\")\nif is_dark and is_boulder or (is_tall):\n    print(\"She is \" + \"ugly and a dwarf.\".upper())\nelif is_male and not (is_dark):\n    print(\"He is an Albino.\")",
+        "detail": "IF STATEMENTS",
+        "documentation": {}
+    },
+    {
+        "label": "is_tall",
+        "kind": 5,
+        "importPath": "IF STATEMENTS",
+        "description": "IF STATEMENTS",
+        "peekOfCode": "is_tall = True\nif is_fair and is_tall and not(is_female):\n    print(\"She is \" + \"elegant.\".upper())\nelse:\n    print(\"She is ugly.\")\nif is_dark and is_boulder or (is_tall):\n    print(\"She is \" + \"ugly and a dwarf.\".upper())\nelif is_male and not (is_dark):\n    print(\"He is an Albino.\")\nelif not(is_male) and not(is_boulder):",
+        "detail": "IF STATEMENTS",
+        "documentation": {}
+    },
+    {
+        "label": "u",
+        "kind": 5,
+        "importPath": "IF STATEMENTS",
+        "description": "IF STATEMENTS",
+        "peekOfCode": "u = 4\nwhile u <= 72:\n    print(u)\n    u +=3\nprint(\"I am done\")\ni = 6\nwhile i < 35:\n    i += 3\n    print(i)\nprint(\"FINISHED\")",
+        "detail": "IF STATEMENTS",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "IF STATEMENTS",
+        "description": "IF STATEMENTS",
+        "peekOfCode": "i = 6\nwhile i < 35:\n    i += 3\n    print(i)\nprint(\"FINISHED\")\nprint(\"guessing game\".upper())\nfrom math import sqrt\nnum1 = input(\"Put a number: \")\n#num2 = input(\"Put another number: \")\n#print(float(num2)//float(num1))",
+        "detail": "IF STATEMENTS",
+        "documentation": {}
+    },
+    {
+        "label": "num1",
+        "kind": 5,
+        "importPath": "IF STATEMENTS",
+        "description": "IF STATEMENTS",
+        "peekOfCode": "num1 = input(\"Put a number: \")\n#num2 = input(\"Put another number: \")\n#print(float(num2)//float(num1))\nprint(sqrt(float(num1)))\nprint(49//2)",
+        "detail": "IF STATEMENTS",
+        "documentation": {}
+    },
+    {
+        "label": "#num2",
+        "kind": 5,
+        "importPath": "IF STATEMENTS",
+        "description": "IF STATEMENTS",
+        "peekOfCode": "#num2 = input(\"Put another number: \")\n#print(float(num2)//float(num1))\nprint(sqrt(float(num1)))\nprint(49//2)",
+        "detail": "IF STATEMENTS",
+        "documentation": {}
+    },
+    {
+        "label": "character_name",
+        "kind": 5,
+        "importPath": "IMPROVING",
+        "description": "IMPROVING",
+        "peekOfCode": "character_name = \"Genius\"\ncharacter_age = \"30\"\nprint(\"There was once a boy named \" + character_name + \",\")\nprint(\"he was \" + character_age + \" years old.\")\nprint(\"He loved being Genius,\")\nprint(\"but he hated being \" + character_age + \" years old.\")\nprint('Genius The Great')\nprint('Genius \\nThe Great')\nprint('Genius /nThe Great')\nprint('Genius \\\"The Great !!!!\"')",
+        "detail": "IMPROVING",
+        "documentation": {}
+    },
+    {
+        "label": "character_age",
+        "kind": 5,
+        "importPath": "IMPROVING",
+        "description": "IMPROVING",
+        "peekOfCode": "character_age = \"30\"\nprint(\"There was once a boy named \" + character_name + \",\")\nprint(\"he was \" + character_age + \" years old.\")\nprint(\"He loved being Genius,\")\nprint(\"but he hated being \" + character_age + \" years old.\")\nprint('Genius The Great')\nprint('Genius \\nThe Great')\nprint('Genius /nThe Great')\nprint('Genius \\\"The Great !!!!\"')\nphrase = \"Genius Dexter\"",
+        "detail": "IMPROVING",
+        "documentation": {}
+    },
+    {
+        "label": "phrase",
+        "kind": 5,
+        "importPath": "IMPROVING",
+        "description": "IMPROVING",
+        "peekOfCode": "phrase = \"Genius Dexter\"\nprint(phrase + \" is good\")\nprint(phrase.upper())\nprint(phrase.lower().islower)\nprint(phrase.lower().isupper())\nprint(len(phrase))\nprint(phrase[5])\nprint(phrase.count(\"g\"))\nprint(phrase.index(\"D\"))\nprint(phrase.replace(\"Genius\",\"Caius\"))",
+        "detail": "IMPROVING",
+        "documentation": {}
+    },
+    {
+        "label": "my_num",
+        "kind": 5,
+        "importPath": "IMPROVING",
+        "description": "IMPROVING",
+        "peekOfCode": "my_num = 7\nprint(my_num)\nprint(str(my_num) + \" is my Lucky Number\")\nmy_num = -10\nprint(abs(my_num))\nprint(\"pow(3, 2)\")\npow(3, 2)\nprint(\"THE EXPRESSION ABOVE READS, 'THREE TO POWER TWO'\")\nprint(pow(3, 2))\nprint(max(4, 6))",
+        "detail": "IMPROVING",
+        "documentation": {}
+    },
+    {
+        "label": "my_num",
+        "kind": 5,
+        "importPath": "IMPROVING",
+        "description": "IMPROVING",
+        "peekOfCode": "my_num = -10\nprint(abs(my_num))\nprint(\"pow(3, 2)\")\npow(3, 2)\nprint(\"THE EXPRESSION ABOVE READS, 'THREE TO POWER TWO'\")\nprint(pow(3, 2))\nprint(max(4, 6))\nprint(min(4, 6))\nprint(round(6.456))\nprint(round(6.56,))",
+        "detail": "IMPROVING",
+        "documentation": {}
+    },
+    {
+        "label": "roommates",
+        "kind": 5,
+        "importPath": "IMPROVING",
+        "description": "IMPROVING",
+        "peekOfCode": "roommates = [\"Ifechukwu\", \"Michael\", \"Paul\", \"Christian\"]\nprint(roommates)\nprint(roommates[0])\nprint(roommates[-1])\nprint(roommates[3])\nprint(\"I\" + \", \" + roommates[0] + \", \" + roommates[1] + \" and \" + roommates[3] + \" are always in the Room.\")\nfriends = roommates.copy\nprint(friends)\nn_o_a = (1, 3, 2, 4)\nprint(n_o_a)",
+        "detail": "IMPROVING",
+        "documentation": {}
+    },
+    {
+        "label": "friends",
+        "kind": 5,
+        "importPath": "IMPROVING",
+        "description": "IMPROVING",
+        "peekOfCode": "friends = roommates.copy\nprint(friends)\nn_o_a = (1, 3, 2, 4)\nprint(n_o_a)\nroommates.append(\"Emmanuel\")\nprint(roommates)\nroommates.reverse()\nprint(roommates)\nroommates.sort()\nprint(roommates)",
+        "detail": "IMPROVING",
+        "documentation": {}
+    },
+    {
+        "label": "n_o_a",
+        "kind": 5,
+        "importPath": "IMPROVING",
+        "description": "IMPROVING",
+        "peekOfCode": "n_o_a = (1, 3, 2, 4)\nprint(n_o_a)\nroommates.append(\"Emmanuel\")\nprint(roommates)\nroommates.reverse()\nprint(roommates)\nroommates.sort()\nprint(roommates)\nroommates.insert(3, \"Okechukwu\")\nprint(roommates)",
+        "detail": "IMPROVING",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "name = input(\"Enter your name: \")\nprint(\"Hello \" + name + \"!!! \")\nname = input(\"Enter your name: \")\nage = input(\"Enter your age: \")\nprint(\"Hi \" + name + \"!!! \" + \"You are \" + age)\nprint(\"HOW TO BUILD A CALCULATOR\")\nnum_1 = input(\"Enter a number: \")\nnum_2 = input(\"Enter another number: \")\nresult1 = float(num_1) + float(num_2)\nprint(result1)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "name = input(\"Enter your name: \")\nage = input(\"Enter your age: \")\nprint(\"Hi \" + name + \"!!! \" + \"You are \" + age)\nprint(\"HOW TO BUILD A CALCULATOR\")\nnum_1 = input(\"Enter a number: \")\nnum_2 = input(\"Enter another number: \")\nresult1 = float(num_1) + float(num_2)\nprint(result1)\nnum1 = input(\"Enter a number: \")\nnum2 = input(\"Enter another number: \")",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "age",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "age = input(\"Enter your age: \")\nprint(\"Hi \" + name + \"!!! \" + \"You are \" + age)\nprint(\"HOW TO BUILD A CALCULATOR\")\nnum_1 = input(\"Enter a number: \")\nnum_2 = input(\"Enter another number: \")\nresult1 = float(num_1) + float(num_2)\nprint(result1)\nnum1 = input(\"Enter a number: \")\nnum2 = input(\"Enter another number: \")\nresult2 = float(num1) + float(num2)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "num_1",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "num_1 = input(\"Enter a number: \")\nnum_2 = input(\"Enter another number: \")\nresult1 = float(num_1) + float(num_2)\nprint(result1)\nnum1 = input(\"Enter a number: \")\nnum2 = input(\"Enter another number: \")\nresult2 = float(num1) + float(num2)\nprint(result2)\nr = 34 != 56\nprint(r)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "num_2",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "num_2 = input(\"Enter another number: \")\nresult1 = float(num_1) + float(num_2)\nprint(result1)\nnum1 = input(\"Enter a number: \")\nnum2 = input(\"Enter another number: \")\nresult2 = float(num1) + float(num2)\nprint(result2)\nr = 34 != 56\nprint(r)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "result1",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "result1 = float(num_1) + float(num_2)\nprint(result1)\nnum1 = input(\"Enter a number: \")\nnum2 = input(\"Enter another number: \")\nresult2 = float(num1) + float(num2)\nprint(result2)\nr = 34 != 56\nprint(r)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "num1",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "num1 = input(\"Enter a number: \")\nnum2 = input(\"Enter another number: \")\nresult2 = float(num1) + float(num2)\nprint(result2)\nr = 34 != 56\nprint(r)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "num2",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "num2 = input(\"Enter another number: \")\nresult2 = float(num1) + float(num2)\nprint(result2)\nr = 34 != 56\nprint(r)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "result2",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "result2 = float(num1) + float(num2)\nprint(result2)\nr = 34 != 56\nprint(r)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "r",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "r = 34 != 56\nprint(r)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "num_1",
+        "kind": 5,
+        "importPath": "SCIENTIFIC_CALCULATOR",
+        "description": "SCIENTIFIC_CALCULATOR",
+        "peekOfCode": "num_1 = float(input(\"Give a number: \"))\noperator = input(\"Operator: \")\nnum_2 = float(input(\"Give Another Number: \"))\nif operator == \"+\":\n    result1 = float(num_1) + float(num_2)\n    print(result1)\nelif operator == \"-\":\n    result2 = float(num_1) - float(num_2)\n    print(result2)\nelif operator == \"*\":",
+        "detail": "SCIENTIFIC_CALCULATOR",
+        "documentation": {}
+    },
+    {
+        "label": "operator",
+        "kind": 5,
+        "importPath": "SCIENTIFIC_CALCULATOR",
+        "description": "SCIENTIFIC_CALCULATOR",
+        "peekOfCode": "operator = input(\"Operator: \")\nnum_2 = float(input(\"Give Another Number: \"))\nif operator == \"+\":\n    result1 = float(num_1) + float(num_2)\n    print(result1)\nelif operator == \"-\":\n    result2 = float(num_1) - float(num_2)\n    print(result2)\nelif operator == \"*\":\n    result3 = float(num_1) * float(num_2)",
+        "detail": "SCIENTIFIC_CALCULATOR",
+        "documentation": {}
+    },
+    {
+        "label": "num_2",
+        "kind": 5,
+        "importPath": "SCIENTIFIC_CALCULATOR",
+        "description": "SCIENTIFIC_CALCULATOR",
+        "peekOfCode": "num_2 = float(input(\"Give Another Number: \"))\nif operator == \"+\":\n    result1 = float(num_1) + float(num_2)\n    print(result1)\nelif operator == \"-\":\n    result2 = float(num_1) - float(num_2)\n    print(result2)\nelif operator == \"*\":\n    result3 = float(num_1) * float(num_2)\n    print(result3)",
+        "detail": "SCIENTIFIC_CALCULATOR",
+        "documentation": {}
+    },
+    {
+        "label": "GEN_PYTHA_TRIPLE",
+        "kind": 2,
+        "importPath": "test_functions",
+        "description": "test_functions",
+        "peekOfCode": "def GEN_PYTHA_TRIPLE():\n    #C = input(float(\"Give A Number(C): \"))\n    #A = input(float(\"Give A Number(A): \"))\n    #B = input(float(\"Give A Number(B): \"))\n    num1 = input(\"Enter A Number(C): \") \n    num2 = input(\"Enter A Number(A): \") \n    num3 = input(\"Enter A Number(B): \") \n    num1 = check_C == float(num1)\n    num2 = check_A == float(num2)\n    num3 = check_B == float(num3)",
+        "detail": "test_functions",
+        "documentation": {}
+    },
+    {
+        "label": "#C",
+        "kind": 5,
+        "importPath": "test_functions",
+        "description": "test_functions",
+        "peekOfCode": "#C = input(\"Give A Number(C): \")\n#A = input(\"Give A Number(A): \")\n#B = input(\"Give A Number(B): \")\n#num1 = float(C) \n#num2 = float(A)\n#num3 = float(B)\n#C = input(float(\"Give A Number(C): \"))\n#A = input(float(\"Give A Number(A): \"))\n#B = input(float(\"Give A Number(B): \"))\ndef GEN_PYTHA_TRIPLE():",
+        "detail": "test_functions",
+        "documentation": {}
+    },
+    {
+        "label": "#A",
+        "kind": 5,
+        "importPath": "test_functions",
+        "description": "test_functions",
+        "peekOfCode": "#A = input(\"Give A Number(A): \")\n#B = input(\"Give A Number(B): \")\n#num1 = float(C) \n#num2 = float(A)\n#num3 = float(B)\n#C = input(float(\"Give A Number(C): \"))\n#A = input(float(\"Give A Number(A): \"))\n#B = input(float(\"Give A Number(B): \"))\ndef GEN_PYTHA_TRIPLE():\n    #C = input(float(\"Give A Number(C): \"))",
+        "detail": "test_functions",
+        "documentation": {}
+    },
+    {
+        "label": "#B",
+        "kind": 5,
+        "importPath": "test_functions",
+        "description": "test_functions",
+        "peekOfCode": "#B = input(\"Give A Number(B): \")\n#num1 = float(C) \n#num2 = float(A)\n#num3 = float(B)\n#C = input(float(\"Give A Number(C): \"))\n#A = input(float(\"Give A Number(A): \"))\n#B = input(float(\"Give A Number(B): \"))\ndef GEN_PYTHA_TRIPLE():\n    #C = input(float(\"Give A Number(C): \"))\n    #A = input(float(\"Give A Number(A): \"))",
+        "detail": "test_functions",
+        "documentation": {}
+    },
+    {
+        "label": "#num1",
+        "kind": 5,
+        "importPath": "test_functions",
+        "description": "test_functions",
+        "peekOfCode": "#num1 = float(C) \n#num2 = float(A)\n#num3 = float(B)\n#C = input(float(\"Give A Number(C): \"))\n#A = input(float(\"Give A Number(A): \"))\n#B = input(float(\"Give A Number(B): \"))\ndef GEN_PYTHA_TRIPLE():\n    #C = input(float(\"Give A Number(C): \"))\n    #A = input(float(\"Give A Number(A): \"))\n    #B = input(float(\"Give A Number(B): \"))",
+        "detail": "test_functions",
+        "documentation": {}
+    },
+    {
+        "label": "#num2",
+        "kind": 5,
+        "importPath": "test_functions",
+        "description": "test_functions",
+        "peekOfCode": "#num2 = float(A)\n#num3 = float(B)\n#C = input(float(\"Give A Number(C): \"))\n#A = input(float(\"Give A Number(A): \"))\n#B = input(float(\"Give A Number(B): \"))\ndef GEN_PYTHA_TRIPLE():\n    #C = input(float(\"Give A Number(C): \"))\n    #A = input(float(\"Give A Number(A): \"))\n    #B = input(float(\"Give A Number(B): \"))\n    num1 = input(\"Enter A Number(C): \") ",
+        "detail": "test_functions",
+        "documentation": {}
+    },
+    {
+        "label": "#num3",
+        "kind": 5,
+        "importPath": "test_functions",
+        "description": "test_functions",
+        "peekOfCode": "#num3 = float(B)\n#C = input(float(\"Give A Number(C): \"))\n#A = input(float(\"Give A Number(A): \"))\n#B = input(float(\"Give A Number(B): \"))\ndef GEN_PYTHA_TRIPLE():\n    #C = input(float(\"Give A Number(C): \"))\n    #A = input(float(\"Give A Number(A): \"))\n    #B = input(float(\"Give A Number(B): \"))\n    num1 = input(\"Enter A Number(C): \") \n    num2 = input(\"Enter A Number(A): \") ",
+        "detail": "test_functions",
+        "documentation": {}
+    },
+    {
+        "label": "#C",
+        "kind": 5,
+        "importPath": "test_functions",
+        "description": "test_functions",
+        "peekOfCode": "#C = input(float(\"Give A Number(C): \"))\n#A = input(float(\"Give A Number(A): \"))\n#B = input(float(\"Give A Number(B): \"))\ndef GEN_PYTHA_TRIPLE():\n    #C = input(float(\"Give A Number(C): \"))\n    #A = input(float(\"Give A Number(A): \"))\n    #B = input(float(\"Give A Number(B): \"))\n    num1 = input(\"Enter A Number(C): \") \n    num2 = input(\"Enter A Number(A): \") \n    num3 = input(\"Enter A Number(B): \") ",
+        "detail": "test_functions",
+        "documentation": {}
+    },
+    {
+        "label": "#A",
+        "kind": 5,
+        "importPath": "test_functions",
+        "description": "test_functions",
+        "peekOfCode": "#A = input(float(\"Give A Number(A): \"))\n#B = input(float(\"Give A Number(B): \"))\ndef GEN_PYTHA_TRIPLE():\n    #C = input(float(\"Give A Number(C): \"))\n    #A = input(float(\"Give A Number(A): \"))\n    #B = input(float(\"Give A Number(B): \"))\n    num1 = input(\"Enter A Number(C): \") \n    num2 = input(\"Enter A Number(A): \") \n    num3 = input(\"Enter A Number(B): \") \n    num1 = check_C == float(num1)",
+        "detail": "test_functions",
+        "documentation": {}
+    },
+    {
+        "label": "#B",
+        "kind": 5,
+        "importPath": "test_functions",
+        "description": "test_functions",
+        "peekOfCode": "#B = input(float(\"Give A Number(B): \"))\ndef GEN_PYTHA_TRIPLE():\n    #C = input(float(\"Give A Number(C): \"))\n    #A = input(float(\"Give A Number(A): \"))\n    #B = input(float(\"Give A Number(B): \"))\n    num1 = input(\"Enter A Number(C): \") \n    num2 = input(\"Enter A Number(A): \") \n    num3 = input(\"Enter A Number(B): \") \n    num1 = check_C == float(num1)\n    num2 = check_A == float(num2)",
+        "detail": "test_functions",
+        "documentation": {}
+    },
+    {
+        "label": "SQUARE",
+        "kind": 2,
+        "importPath": "trignometry",
+        "description": "trignometry",
+        "peekOfCode": "def SQUARE(num):\n    return float(num)**float(2)\ndef SQUARE_ROOT(num):\n    return float(num)**float(0.5)\ndef PERCENTAGE(num1, num2):\n    return float(num1)*float(num2)/float(100)\ndef FINDING_C(A, B):\n    result = SQUARE_ROOT(float(SQUARE(A))+float(SQUARE(B)))\n    return result\ndef FINDING_A(C, B):",
+        "detail": "trignometry",
+        "documentation": {}
+    },
+    {
+        "label": "SQUARE_ROOT",
+        "kind": 2,
+        "importPath": "trignometry",
+        "description": "trignometry",
+        "peekOfCode": "def SQUARE_ROOT(num):\n    return float(num)**float(0.5)\ndef PERCENTAGE(num1, num2):\n    return float(num1)*float(num2)/float(100)\ndef FINDING_C(A, B):\n    result = SQUARE_ROOT(float(SQUARE(A))+float(SQUARE(B)))\n    return result\ndef FINDING_A(C, B):\n    result = SQUARE_ROOT(float(SQUARE(C))-float(SQUARE(B)))\n    if C < B:",
+        "detail": "trignometry",
+        "documentation": {}
+    },
+    {
+        "label": "PERCENTAGE",
+        "kind": 2,
+        "importPath": "trignometry",
+        "description": "trignometry",
+        "peekOfCode": "def PERCENTAGE(num1, num2):\n    return float(num1)*float(num2)/float(100)\ndef FINDING_C(A, B):\n    result = SQUARE_ROOT(float(SQUARE(A))+float(SQUARE(B)))\n    return result\ndef FINDING_A(C, B):\n    result = SQUARE_ROOT(float(SQUARE(C))-float(SQUARE(B)))\n    if C < B:\n        print(\"Not Possible!!!\")\n    else:",
+        "detail": "trignometry",
+        "documentation": {}
+    },
+    {
+        "label": "FINDING_C",
+        "kind": 2,
+        "importPath": "trignometry",
+        "description": "trignometry",
+        "peekOfCode": "def FINDING_C(A, B):\n    result = SQUARE_ROOT(float(SQUARE(A))+float(SQUARE(B)))\n    return result\ndef FINDING_A(C, B):\n    result = SQUARE_ROOT(float(SQUARE(C))-float(SQUARE(B)))\n    if C < B:\n        print(\"Not Possible!!!\")\n    else:\n        return result\ndef FINDING_B(C, A):",
+        "detail": "trignometry",
+        "documentation": {}
+    },
+    {
+        "label": "FINDING_A",
+        "kind": 2,
+        "importPath": "trignometry",
+        "description": "trignometry",
+        "peekOfCode": "def FINDING_A(C, B):\n    result = SQUARE_ROOT(float(SQUARE(C))-float(SQUARE(B)))\n    if C < B:\n        print(\"Not Possible!!!\")\n    else:\n        return result\ndef FINDING_B(C, A):\n    return SQUARE_ROOT(float(SQUARE(C))-float(SQUARE(A)))\n    if C < A:\n        print(\"NOT POSSIBLE\")",
+        "detail": "trignometry",
+        "documentation": {}
+    },
+    {
+        "label": "FINDING_B",
+        "kind": 2,
+        "importPath": "trignometry",
+        "description": "trignometry",
+        "peekOfCode": "def FINDING_B(C, A):\n    return SQUARE_ROOT(float(SQUARE(C))-float(SQUARE(A)))\n    if C < A:\n        print(\"NOT POSSIBLE\")\n    else:\n        return result1",
+        "detail": "trignometry",
+        "documentation": {}
+    },
+    {
+        "label": "Greetings",
+        "kind": 5,
+        "importPath": "tryout",
+        "description": "tryout",
+        "peekOfCode": "Greetings = \"Good Day, Ladies and Gentlemen.\"\ncompliments = \"Hope, You've Had A Smooth Day.\"\nprint(Greetings.upper())\nprint(compliments.upper())\nprint(FINDING_A(6, 10))",
+        "detail": "tryout",
+        "documentation": {}
+    },
+    {
+        "label": "compliments",
+        "kind": 5,
+        "importPath": "tryout",
+        "description": "tryout",
+        "peekOfCode": "compliments = \"Hope, You've Had A Smooth Day.\"\nprint(Greetings.upper())\nprint(compliments.upper())\nprint(FINDING_A(6, 10))",
+        "detail": "tryout",
+        "documentation": {}
+    },
+    {
+        "label": "coordinates",
+        "kind": 5,
+        "importPath": "Tuple",
+        "description": "Tuple",
+        "peekOfCode": "coordinates = [(6, 2), (4, 9), (12, 54)]\nprint(coordinates[1])\nprint(coordinates[0])\nprint(coordinates[2])",
+        "detail": "Tuple",
+        "documentation": {}
+    },
+    {
+        "label": "me_r",
+        "kind": 2,
+        "importPath": "WHILE LOOPS",
+        "description": "WHILE LOOPS",
+        "peekOfCode": "def me_r():\n    c = input(\"Give C: \")\n    fine_boy = float(c) > 4\n    if fine_boy == True:\n        print(\"Weldone Job !!! \")\n    else:\n        print(\"Didn't You Attend School? \")\nprint(me_r())\n#print(fine_boy)",
+        "detail": "WHILE LOOPS",
+        "documentation": {}
+    },
+    {
+        "label": "#c",
+        "kind": 5,
+        "importPath": "WHILE LOOPS",
+        "description": "WHILE LOOPS",
+        "peekOfCode": "#c = input(\"Give C: \")\n#fine_boy = float(c) > 4\ndef me_r():\n    c = input(\"Give C: \")\n    fine_boy = float(c) > 4\n    if fine_boy == True:\n        print(\"Weldone Job !!! \")\n    else:\n        print(\"Didn't You Attend School? \")\nprint(me_r())",
+        "detail": "WHILE LOOPS",
+        "documentation": {}
+    },
+    {
+        "label": "#fine_boy",
+        "kind": 5,
+        "importPath": "WHILE LOOPS",
+        "description": "WHILE LOOPS",
+        "peekOfCode": "#fine_boy = float(c) > 4\ndef me_r():\n    c = input(\"Give C: \")\n    fine_boy = float(c) > 4\n    if fine_boy == True:\n        print(\"Weldone Job !!! \")\n    else:\n        print(\"Didn't You Attend School? \")\nprint(me_r())\n#print(fine_boy)",
+        "detail": "WHILE LOOPS",
+        "documentation": {}
+    }
+]

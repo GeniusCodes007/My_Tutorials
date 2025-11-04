@@ -1,0 +1,89 @@
+[
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "website",
+        "description": "website",
+        "isExtraImport": true,
+        "detail": "website",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "website.auth",
+        "description": "website.auth",
+        "peekOfCode": "def login():\n    return \"<p>Login</p\"\n@auth.route('/logout')\ndef logout():\n    return \"<p>Logout</p\"\n@auth.route('/sign-up')\ndef sign_up():\n    return \"<p>Sign Up</p\"",
+        "detail": "website.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "kind": 2,
+        "importPath": "website.auth",
+        "description": "website.auth",
+        "peekOfCode": "def logout():\n    return \"<p>Logout</p\"\n@auth.route('/sign-up')\ndef sign_up():\n    return \"<p>Sign Up</p\"",
+        "detail": "website.auth",
+        "documentation": {}
+    },
+    {
+        "label": "sign_up",
+        "kind": 2,
+        "importPath": "website.auth",
+        "description": "website.auth",
+        "peekOfCode": "def sign_up():\n    return \"<p>Sign Up</p\"",
+        "detail": "website.auth",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "kind": 5,
+        "importPath": "website.auth",
+        "description": "website.auth",
+        "peekOfCode": "auth = Blueprint('auth', __name__)\n@auth.route('/login')\ndef login():\n    return \"<p>Login</p\"\n@auth.route('/logout')\ndef logout():\n    return \"<p>Logout</p\"\n@auth.route('/sign-up')\ndef sign_up():\n    return \"<p>Sign Up</p\"",
+        "detail": "website.auth",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "website.views",
+        "description": "website.views",
+        "peekOfCode": "def home():\n    return \"<h1>Testing The Website<h1>\"",
+        "detail": "website.views",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "kind": 5,
+        "importPath": "website.views",
+        "description": "website.views",
+        "peekOfCode": "views = Blueprint('views', __name__)\n@views.route('/')\ndef home():\n    return \"<h1>Testing The Website<h1>\"",
+        "detail": "website.views",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "app = create_app()\nif __name__ == '__main__':\n    app.run(debug=True)",
+        "detail": "main",
+        "documentation": {}
+    }
+]

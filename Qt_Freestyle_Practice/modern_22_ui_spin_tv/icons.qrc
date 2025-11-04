@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="myIcons">
+    <file>resource_folder_test/data_analysis.png</file>
+    <file>resource_folder_test/help.png</file>
+    <file>resource_folder_test/home.png</file>
+    <file>resource_folder_test/info.png</file>
+    <file>resource_folder_test/menu.png</file>
+    <file>resource_folder_test/reports.png</file>
+    <file>resource_folder_test/settings.png</file>
+  </qresource>
+</RCC>

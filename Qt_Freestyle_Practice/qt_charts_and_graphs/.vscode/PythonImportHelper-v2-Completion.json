@@ -1,0 +1,646 @@
+[
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "QCoreApplication",
+        "importPath": "PySide6.QtCore",
+        "description": "PySide6.QtCore",
+        "isExtraImport": true,
+        "detail": "PySide6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QDate",
+        "importPath": "PySide6.QtCore",
+        "description": "PySide6.QtCore",
+        "isExtraImport": true,
+        "detail": "PySide6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QDateTime",
+        "importPath": "PySide6.QtCore",
+        "description": "PySide6.QtCore",
+        "isExtraImport": true,
+        "detail": "PySide6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QLocale",
+        "importPath": "PySide6.QtCore",
+        "description": "PySide6.QtCore",
+        "isExtraImport": true,
+        "detail": "PySide6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QMetaObject",
+        "importPath": "PySide6.QtCore",
+        "description": "PySide6.QtCore",
+        "isExtraImport": true,
+        "detail": "PySide6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QObject",
+        "importPath": "PySide6.QtCore",
+        "description": "PySide6.QtCore",
+        "isExtraImport": true,
+        "detail": "PySide6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QPoint",
+        "importPath": "PySide6.QtCore",
+        "description": "PySide6.QtCore",
+        "isExtraImport": true,
+        "detail": "PySide6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QRect",
+        "importPath": "PySide6.QtCore",
+        "description": "PySide6.QtCore",
+        "isExtraImport": true,
+        "detail": "PySide6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QSize",
+        "importPath": "PySide6.QtCore",
+        "description": "PySide6.QtCore",
+        "isExtraImport": true,
+        "detail": "PySide6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QTime",
+        "importPath": "PySide6.QtCore",
+        "description": "PySide6.QtCore",
+        "isExtraImport": true,
+        "detail": "PySide6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QUrl",
+        "importPath": "PySide6.QtCore",
+        "description": "PySide6.QtCore",
+        "isExtraImport": true,
+        "detail": "PySide6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PySide6.QtCore",
+        "description": "PySide6.QtCore",
+        "isExtraImport": true,
+        "detail": "PySide6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QBrush",
+        "importPath": "PySide6.QtGui",
+        "description": "PySide6.QtGui",
+        "isExtraImport": true,
+        "detail": "PySide6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QColor",
+        "importPath": "PySide6.QtGui",
+        "description": "PySide6.QtGui",
+        "isExtraImport": true,
+        "detail": "PySide6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QConicalGradient",
+        "importPath": "PySide6.QtGui",
+        "description": "PySide6.QtGui",
+        "isExtraImport": true,
+        "detail": "PySide6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QCursor",
+        "importPath": "PySide6.QtGui",
+        "description": "PySide6.QtGui",
+        "isExtraImport": true,
+        "detail": "PySide6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QFont",
+        "importPath": "PySide6.QtGui",
+        "description": "PySide6.QtGui",
+        "isExtraImport": true,
+        "detail": "PySide6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QFontDatabase",
+        "importPath": "PySide6.QtGui",
+        "description": "PySide6.QtGui",
+        "isExtraImport": true,
+        "detail": "PySide6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QGradient",
+        "importPath": "PySide6.QtGui",
+        "description": "PySide6.QtGui",
+        "isExtraImport": true,
+        "detail": "PySide6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QIcon",
+        "importPath": "PySide6.QtGui",
+        "description": "PySide6.QtGui",
+        "isExtraImport": true,
+        "detail": "PySide6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QImage",
+        "importPath": "PySide6.QtGui",
+        "description": "PySide6.QtGui",
+        "isExtraImport": true,
+        "detail": "PySide6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QKeySequence",
+        "importPath": "PySide6.QtGui",
+        "description": "PySide6.QtGui",
+        "isExtraImport": true,
+        "detail": "PySide6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QLinearGradient",
+        "importPath": "PySide6.QtGui",
+        "description": "PySide6.QtGui",
+        "isExtraImport": true,
+        "detail": "PySide6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QPainter",
+        "importPath": "PySide6.QtGui",
+        "description": "PySide6.QtGui",
+        "isExtraImport": true,
+        "detail": "PySide6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QPalette",
+        "importPath": "PySide6.QtGui",
+        "description": "PySide6.QtGui",
+        "isExtraImport": true,
+        "detail": "PySide6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QPixmap",
+        "importPath": "PySide6.QtGui",
+        "description": "PySide6.QtGui",
+        "isExtraImport": true,
+        "detail": "PySide6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QRadialGradient",
+        "importPath": "PySide6.QtGui",
+        "description": "PySide6.QtGui",
+        "isExtraImport": true,
+        "detail": "PySide6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QTransform",
+        "importPath": "PySide6.QtGui",
+        "description": "PySide6.QtGui",
+        "isExtraImport": true,
+        "detail": "PySide6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QPainter",
+        "importPath": "PySide6.QtGui",
+        "description": "PySide6.QtGui",
+        "isExtraImport": true,
+        "detail": "PySide6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QApplication",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFrame",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QGridLayout",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QHBoxLayout",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLabel",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMainWindow",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QPushButton",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QSizePolicy",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QStackedWidget",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QVBoxLayout",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMainWindow",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QApplication",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "qtChartIcons_rc",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "qtChartIcons_rc",
+        "description": "qtChartIcons_rc",
+        "detail": "qtChartIcons_rc",
+        "documentation": {}
+    },
+    {
+        "label": "QChart",
+        "importPath": "PySide6.QtCharts",
+        "description": "PySide6.QtCharts",
+        "isExtraImport": true,
+        "detail": "PySide6.QtCharts",
+        "documentation": {}
+    },
+    {
+        "label": "randrange",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "partial",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "Ui_QtChartWindow",
+        "importPath": "chartsAndGraphsQtFiles.qtChartWindow_ui",
+        "description": "chartsAndGraphsQtFiles.qtChartWindow_ui",
+        "isExtraImport": true,
+        "detail": "chartsAndGraphsQtFiles.qtChartWindow_ui",
+        "documentation": {}
+    },
+    {
+        "label": "QtCore",
+        "importPath": "PySide6",
+        "description": "PySide6",
+        "isExtraImport": true,
+        "detail": "PySide6",
+        "documentation": {}
+    },
+    {
+        "label": "QtChartAndGraphActionEdit",
+        "importPath": "qtChartAndGraphActionEdit",
+        "description": "qtChartAndGraphActionEdit",
+        "isExtraImport": true,
+        "detail": "qtChartAndGraphActionEdit",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": ".venvForChartsAndGraphs.Scripts.activate_this",
+        "description": ".venvForChartsAndGraphs.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": ".venvForChartsAndGraphs.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": ".venvForChartsAndGraphs.Scripts.activate_this",
+        "description": ".venvForChartsAndGraphs.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": ".venvForChartsAndGraphs.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": ".venvForChartsAndGraphs.Scripts.activate_this",
+        "description": ".venvForChartsAndGraphs.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": ".venvForChartsAndGraphs.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": ".venvForChartsAndGraphs.Scripts.activate_this",
+        "description": ".venvForChartsAndGraphs.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venvForChartsAndGraphs.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": ".venvForChartsAndGraphs.Scripts.activate_this",
+        "description": ".venvForChartsAndGraphs.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venvForChartsAndGraphs.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": ".venvForChartsAndGraphs.Scripts.activate_this",
+        "description": ".venvForChartsAndGraphs.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venvForChartsAndGraphs.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": ".venvForChartsAndGraphs.Scripts.activate_this",
+        "description": ".venvForChartsAndGraphs.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venvForChartsAndGraphs.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": ".venvForChartsAndGraphs.Scripts.activate_this",
+        "description": ".venvForChartsAndGraphs.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venvForChartsAndGraphs.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": ".venvForChartsAndGraphs.Scripts.activate_this",
+        "description": ".venvForChartsAndGraphs.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": ".venvForChartsAndGraphs.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "Ui_QtChartWindow",
+        "kind": 6,
+        "importPath": "chartsAndGraphsQtFiles.qtChartWindow_ui",
+        "description": "chartsAndGraphsQtFiles.qtChartWindow_ui",
+        "peekOfCode": "class Ui_QtChartWindow(object):\n    def setupUi(self, QtChartWindow):\n        if not QtChartWindow.objectName():\n            QtChartWindow.setObjectName(u\"QtChartWindow\")\n        QtChartWindow.resize(959, 514)\n        QtChartWindow.setStyleSheet(u\"background-color: rgb(0, 141, 201);\")\n        self.chartAndGraphsCentralWidget = QWidget(QtChartWindow)\n        self.chartAndGraphsCentralWidget.setObjectName(u\"chartAndGraphsCentralWidget\")\n        self.horizontalLayout = QHBoxLayout(self.chartAndGraphsCentralWidget)\n        self.horizontalLayout.setObjectName(u\"horizontalLayout\")",
+        "detail": "chartsAndGraphsQtFiles.qtChartWindow_ui",
+        "documentation": {}
+    },
+    {
+        "label": "QtChartAndGraphActionEdit",
+        "kind": 6,
+        "importPath": "qtChartsAndGraphsPythonFiles.qtChartAndGraphActionEdit",
+        "description": "qtChartsAndGraphsPythonFiles.qtChartAndGraphActionEdit",
+        "peekOfCode": "class QtChartAndGraphActionEdit(QMainWindow, Ui_QtChartWindow):\n    def __init__(self):\n        super().__init__()\n        self.setupUi(self)",
+        "detail": "qtChartsAndGraphsPythonFiles.qtChartAndGraphActionEdit",
+        "documentation": {}
+    },
+    {
+        "label": "#frame3",
+        "kind": 5,
+        "importPath": "qtChartsAndGraphsPythonFiles.qtChartAndGraphActionEdit",
+        "description": "qtChartsAndGraphsPythonFiles.qtChartAndGraphActionEdit",
+        "peekOfCode": "#frame3 = projectNameFrame\n#frame5 = supportFrame\n#frame8 = mainDisplayFrame\nfrom chartsAndGraphsQtFiles.qtChartWindow_ui import Ui_QtChartWindow\nfrom PySide6.QtWidgets import QMainWindow\nshadowElements = {\"leftMenuWidget\",\n                  \"projectNameFrame\",\n                  \"supportFrame\",\n                  \"mainDisplayFrame\",\n                  \"headerFrame\"}",
+        "detail": "qtChartsAndGraphsPythonFiles.qtChartAndGraphActionEdit",
+        "documentation": {}
+    },
+    {
+        "label": "#frame5",
+        "kind": 5,
+        "importPath": "qtChartsAndGraphsPythonFiles.qtChartAndGraphActionEdit",
+        "description": "qtChartsAndGraphsPythonFiles.qtChartAndGraphActionEdit",
+        "peekOfCode": "#frame5 = supportFrame\n#frame8 = mainDisplayFrame\nfrom chartsAndGraphsQtFiles.qtChartWindow_ui import Ui_QtChartWindow\nfrom PySide6.QtWidgets import QMainWindow\nshadowElements = {\"leftMenuWidget\",\n                  \"projectNameFrame\",\n                  \"supportFrame\",\n                  \"mainDisplayFrame\",\n                  \"headerFrame\"}\nclass QtChartAndGraphActionEdit(QMainWindow, Ui_QtChartWindow):",
+        "detail": "qtChartsAndGraphsPythonFiles.qtChartAndGraphActionEdit",
+        "documentation": {}
+    },
+    {
+        "label": "#frame8",
+        "kind": 5,
+        "importPath": "qtChartsAndGraphsPythonFiles.qtChartAndGraphActionEdit",
+        "description": "qtChartsAndGraphsPythonFiles.qtChartAndGraphActionEdit",
+        "peekOfCode": "#frame8 = mainDisplayFrame\nfrom chartsAndGraphsQtFiles.qtChartWindow_ui import Ui_QtChartWindow\nfrom PySide6.QtWidgets import QMainWindow\nshadowElements = {\"leftMenuWidget\",\n                  \"projectNameFrame\",\n                  \"supportFrame\",\n                  \"mainDisplayFrame\",\n                  \"headerFrame\"}\nclass QtChartAndGraphActionEdit(QMainWindow, Ui_QtChartWindow):\n    def __init__(self):",
+        "detail": "qtChartsAndGraphsPythonFiles.qtChartAndGraphActionEdit",
+        "documentation": {}
+    },
+    {
+        "label": "shadowElements",
+        "kind": 5,
+        "importPath": "qtChartsAndGraphsPythonFiles.qtChartAndGraphActionEdit",
+        "description": "qtChartsAndGraphsPythonFiles.qtChartAndGraphActionEdit",
+        "peekOfCode": "shadowElements = {\"leftMenuWidget\",\n                  \"projectNameFrame\",\n                  \"supportFrame\",\n                  \"mainDisplayFrame\",\n                  \"headerFrame\"}\nclass QtChartAndGraphActionEdit(QMainWindow, Ui_QtChartWindow):\n    def __init__(self):\n        super().__init__()\n        self.setupUi(self)",
+        "detail": "qtChartsAndGraphsPythonFiles.qtChartAndGraphActionEdit",
+        "documentation": {}
+    },
+    {
+        "label": "qInitResources",
+        "kind": 2,
+        "importPath": "qtChartsAndGraphsPythonFiles.qtChartIcons_rc",
+        "description": "qtChartsAndGraphsPythonFiles.qtChartIcons_rc",
+        "peekOfCode": "def qInitResources():\n    QtCore.qRegisterResourceData(0x03, qt_resource_struct, qt_resource_name, qt_resource_data)\ndef qCleanupResources():\n    QtCore.qUnregisterResourceData(0x03, qt_resource_struct, qt_resource_name, qt_resource_data)\nqInitResources()",
+        "detail": "qtChartsAndGraphsPythonFiles.qtChartIcons_rc",
+        "documentation": {}
+    },
+    {
+        "label": "qCleanupResources",
+        "kind": 2,
+        "importPath": "qtChartsAndGraphsPythonFiles.qtChartIcons_rc",
+        "description": "qtChartsAndGraphsPythonFiles.qtChartIcons_rc",
+        "peekOfCode": "def qCleanupResources():\n    QtCore.qUnregisterResourceData(0x03, qt_resource_struct, qt_resource_name, qt_resource_data)\nqInitResources()",
+        "detail": "qtChartsAndGraphsPythonFiles.qtChartIcons_rc",
+        "documentation": {}
+    },
+    {
+        "label": "qt_resource_data",
+        "kind": 5,
+        "importPath": "qtChartsAndGraphsPythonFiles.qtChartIcons_rc",
+        "description": "qtChartsAndGraphsPythonFiles.qtChartIcons_rc",
+        "peekOfCode": "qt_resource_data = b\"\\\n\\x00\\x00\\x0a\\xea\\\n\\x89\\\nPNG\\x0d\\x0a\\x1a\\x0a\\x00\\x00\\x00\\x0dIHDR\\x00\\\n\\x00\\x00l\\x00\\x00\\x00\\xa5\\x08\\x06\\x00\\x00\\x00\\xb9\\x81\\x18\\xb1\\\n\\x00\\x00\\x00\\x01sRGB\\x00\\xae\\xce\\x1c\\xe9\\x00\\x00\\x00\\\n\\x04gAMA\\x00\\x00\\xb1\\x8f\\x0b\\xfca\\x05\\x00\\x00\\x00\\\n\\x09pHYs\\x00\\x00\\x0e\\xc3\\x00\\x00\\x0e\\xc3\\x01\\xc7o\\\n\\xa8d\\x00\\x00\\x0a\\x7fIDATx^\\xed\\xddy\\x5c\\\nO\\xf9\\x1e\\xc7q\\xc6\\x8c\\xbda\\xc6\\xbe\\xcd\\xb8\\x5c\\xae}\\",
+        "detail": "qtChartsAndGraphsPythonFiles.qtChartIcons_rc",
+        "documentation": {}
+    },
+    {
+        "label": "qt_resource_name",
+        "kind": 5,
+        "importPath": "qtChartsAndGraphsPythonFiles.qtChartIcons_rc",
+        "description": "qtChartsAndGraphsPythonFiles.qtChartIcons_rc",
+        "peekOfCode": "qt_resource_name = b\"\\\n\\x00\\x09\\\n\\x0cxT\\x88\\\n\\x00n\\\n\\x00e\\x00w\\x00P\\x00r\\x00e\\x00f\\x00i\\x00x\\\n\\x00\\x0f\\\n\\x09\\xdf\\xc9\\xd3\\\n\\x00c\\\n\\x00h\\x00a\\x00r\\x00t\\x00s\\x00A\\x00n\\x00d\\x00G\\x00r\\x00a\\x00p\\x00h\\x00s\\\n\\x00\\x0b\\",
+        "detail": "qtChartsAndGraphsPythonFiles.qtChartIcons_rc",
+        "documentation": {}
+    },
+    {
+        "label": "qt_resource_struct",
+        "kind": 5,
+        "importPath": "qtChartsAndGraphsPythonFiles.qtChartIcons_rc",
+        "description": "qtChartsAndGraphsPythonFiles.qtChartIcons_rc",
+        "peekOfCode": "qt_resource_struct = b\"\\\n\\x00\\x00\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x01\\\n\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\\n\\x00\\x00\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x02\\\n\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\\n\\x00\\x00\\x00\\x18\\x00\\x02\\x00\\x00\\x00\\x12\\x00\\x00\\x00\\x03\\\n\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\\n\\x00\\x00\\x01\\xfc\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x01\\xe8\\xc7\\\n\\x00\\x00\\x01\\x99~\\x94D\\x91\\\n\\x00\\x00\\x00\\x94\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00CV\\",
+        "detail": "qtChartsAndGraphsPythonFiles.qtChartIcons_rc",
+        "documentation": {}
+    },
+    {
+        "label": "Run",
+        "kind": 6,
+        "importPath": "qtChartsAndGraphsPythonFiles.qtGraphsAndChartsRunFile",
+        "description": "qtChartsAndGraphsPythonFiles.qtGraphsAndChartsRunFile",
+        "peekOfCode": "class Run(QtChartAndGraphActionEdit):\n    def __init__(self):\n        super().__init__()\napp = QApplication(sys.argv)\nwindow = Run()\nwindow.show()\nsys.exit(app.exec())",
+        "detail": "qtChartsAndGraphsPythonFiles.qtGraphsAndChartsRunFile",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "qtChartsAndGraphsPythonFiles.qtGraphsAndChartsRunFile",
+        "description": "qtChartsAndGraphsPythonFiles.qtGraphsAndChartsRunFile",
+        "peekOfCode": "app = QApplication(sys.argv)\nwindow = Run()\nwindow.show()\nsys.exit(app.exec())",
+        "detail": "qtChartsAndGraphsPythonFiles.qtGraphsAndChartsRunFile",
+        "documentation": {}
+    },
+    {
+        "label": "window",
+        "kind": 5,
+        "importPath": "qtChartsAndGraphsPythonFiles.qtGraphsAndChartsRunFile",
+        "description": "qtChartsAndGraphsPythonFiles.qtGraphsAndChartsRunFile",
+        "peekOfCode": "window = Run()\nwindow.show()\nsys.exit(app.exec())",
+        "detail": "qtChartsAndGraphsPythonFiles.qtGraphsAndChartsRunFile",
+        "documentation": {}
+    }
+]

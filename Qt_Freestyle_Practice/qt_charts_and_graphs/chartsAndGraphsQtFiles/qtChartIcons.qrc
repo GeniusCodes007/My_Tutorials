@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>chartsAndGraphs/reduceSize.png</file>
+    <file>chartsAndGraphs/images.png</file>
+    <file>chartsAndGraphs/temperature.png</file>
+    <file>chartsAndGraphs/bar_charts.png</file>
+    <file>chartsAndGraphs/close_or_cancel.png</file>
+    <file>chartsAndGraphs/line_chart.png</file>
+    <file>chartsAndGraphs/maximise.png</file>
+    <file>chartsAndGraphs/menu.png</file>
+    <file>chartsAndGraphs/minimise.png</file>
+    <file>chartsAndGraphs/nested_donut.png</file>
+    <file>chartsAndGraphs/patreon.png</file>
+    <file>chartsAndGraphs/percentage_bar_chart.png</file>
+    <file>chartsAndGraphs/qt_chart.png</file>
+    <file>chartsAndGraphs/qt_chart_podkiis.png</file>
+    <file>chartsAndGraphs/settings_1.png</file>
+    <file>chartsAndGraphs/settings_2.png</file>
+    <file>chartsAndGraphs/subcribe.png</file>
+    <file>chartsAndGraphs/support.png</file>
+  </qresource>
+</RCC>

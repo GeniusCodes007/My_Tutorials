@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1759456448 source:c:\tutorial__folders\c++\datastructuresincpp\arraysincpp.cpp
+	<iostream>
+
+1759452286 source:c:\tutorial__folders\c++\datastructuresincpp\main.cpp
+	<iostream>
+

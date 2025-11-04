@@ -1,0 +1,224 @@
+[
+    {
+        "label": "EmployeeStaff",
+        "importPath": "employee_staff",
+        "description": "employee_staff",
+        "isExtraImport": true,
+        "detail": "employee_staff",
+        "documentation": {}
+    },
+    {
+        "label": "SoftwareEngineer",
+        "importPath": "employee_staff",
+        "description": "employee_staff",
+        "isExtraImport": true,
+        "detail": "employee_staff",
+        "documentation": {}
+    },
+    {
+        "label": "Designer",
+        "importPath": "employee_staff",
+        "description": "employee_staff",
+        "isExtraImport": true,
+        "detail": "employee_staff",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeStaff",
+        "kind": 6,
+        "importPath": "employee_staff",
+        "description": "employee_staff",
+        "peekOfCode": "class EmployeeStaff:\n    # class attribute\n    staff_attribute = \"Workaholic\"\n    def __init__(self, name,flank, level, salary):\n        # instance attributes\n        self.name = name\n        self.flank = flank\n        self.level = level\n        self.salary = salary\n    def work_status(self):",
+        "detail": "employee_staff",
+        "documentation": {}
+    },
+    {
+        "label": "SoftwareEngineer",
+        "kind": 6,
+        "importPath": "employee_staff",
+        "description": "employee_staff",
+        "peekOfCode": "class SoftwareEngineer(EmployeeStaff):\n    def __init__(self, name,flank, level, salary, age):\n        super().__init__(name,flank, level, salary,)\n        self.age = age\n    def skill(self):\n        print(f\"{self.name} is a Network Wizard.\")\n    def virtue(self):\n        print(f\"{self.name} is dedicated to his work.\")\nclass Designer(EmployeeStaff):\n    def __init__(self, name,flank, level, salary, age):",
+        "detail": "employee_staff",
+        "documentation": {}
+    },
+    {
+        "label": "Designer",
+        "kind": 6,
+        "importPath": "employee_staff",
+        "description": "employee_staff",
+        "peekOfCode": "class Designer(EmployeeStaff):\n    def __init__(self, name,flank, level, salary, age):\n        super().__init__(name,flank, level, salary)\n        self.age = age\n    def skill(self):\n        print(f\"{self.name} designs the  fliers, posters and bill boards in this firm.\")\n    def virtue(self):\n        print(f\"{self.name} has a beautiful heart.\")\n\"\"\"\nse = SoftwareEngineer(\"Genius\",\"Senior\", 7000, 21)",
+        "detail": "employee_staff",
+        "documentation": {}
+    },
+    {
+        "label": "se",
+        "kind": 5,
+        "importPath": "employee_staff",
+        "description": "employee_staff",
+        "peekOfCode": "se = SoftwareEngineer(\"Genius\",\"Senior\", 7000, 21)\nprint(f\"{se. name}, {se.level}\")\nse.work_status()\nse.skill()\nse.virtue()\nd = Designer(\"Dexter\",\"Senior\", 5000, 22)\nprint(f\"{d. name}, {d.level}\")\nd.work_status()\nd.skill()\nd.virtue()",
+        "detail": "employee_staff",
+        "documentation": {}
+    },
+    {
+        "label": "d",
+        "kind": 5,
+        "importPath": "employee_staff",
+        "description": "employee_staff",
+        "peekOfCode": "d = Designer(\"Dexter\",\"Senior\", 5000, 22)\nprint(f\"{d. name}, {d.level}\")\nd.work_status()\nd.skill()\nd.virtue()\n\"\"\"",
+        "detail": "employee_staff",
+        "documentation": {}
+    },
+    {
+        "label": "SoftwareEngineer",
+        "kind": 6,
+        "importPath": "encapsulation_2",
+        "description": "encapsulation_2",
+        "peekOfCode": "class SoftwareEngineer:\n    def __init__(self, name, age):\n        self.name = name\n        self.age = age\n        self.__salary = None\n        self._num_bugs_solved = 0\n    def code(self):\n        self._num_bugs_solved += 1\n    def get_salary(self):\n        return self.__salary",
+        "detail": "encapsulation_2",
+        "documentation": {}
+    },
+    {
+        "label": "se",
+        "kind": 5,
+        "importPath": "encapsulation_2",
+        "description": "encapsulation_2",
+        "peekOfCode": "se = SoftwareEngineer(\"Genius\", \"24\")\nfor i in range(70):\n    se.code()\n#\nprint(se.name, se.age)\nse.set_salary(4000)\nprint(se.get_salary())",
+        "detail": "encapsulation_2",
+        "documentation": {}
+    },
+    {
+        "label": "TechStaffs",
+        "kind": 6,
+        "importPath": "encapsulation_and_extraction",
+        "description": "encapsulation_and_extraction",
+        "peekOfCode": "class TechStaffs:\n    #class attribute\n    staff_attribute = \"Network Wizard\"\n    def __init__(self, name, age, level):\n        # instance attributes\n        self.name = name\n        self.age = age\n        self.level = level\n        self.__salary = 5000\n        self._num_bugs_solved = 0",
+        "detail": "encapsulation_and_extraction",
+        "documentation": {}
+    },
+    {
+        "label": "se",
+        "kind": 5,
+        "importPath": "encapsulation_and_extraction",
+        "description": "encapsulation_and_extraction",
+        "peekOfCode": "se = TechStaffs(\"Max\",25, \"Senior\")\nprint(se.age, se.name, se.__salary)",
+        "detail": "encapsulation_and_extraction",
+        "documentation": {}
+    },
+    {
+        "label": "check_on",
+        "kind": 2,
+        "importPath": "polymorphism",
+        "description": "polymorphism",
+        "peekOfCode": "def check_on(employees):\n    for employee in employees:\n        employee.work_status()\ncheck_on(employees)",
+        "detail": "polymorphism",
+        "documentation": {}
+    },
+    {
+        "label": "se",
+        "kind": 5,
+        "importPath": "polymorphism",
+        "description": "polymorphism",
+        "peekOfCode": "se = SoftwareEngineer(\"Max\", \"Software\", \"Senior\", 6000, 34)\nd = Designer(\"Philipp\", \"Design\",\"Senior\", 4000, 23)\nemployees =[SoftwareEngineer(\"Genius\",  \"Software\",\"Senior\", 6000, 34),\n            SoftwareEngineer(\"Max\", \"Software\",\"Junior\", 4000, 34),\n            Designer(\"Philipp\", \"Design\",\"Senior\", 4000, 23),\n            SoftwareEngineer(\"Anna\", \"Software\",\"Senior\", 6000, 24),\n            Designer(\"Monalisa\", \"Design\",\"Junior\", 3000, 34)]\ndef check_on(employees):\n    for employee in employees:\n        employee.work_status()",
+        "detail": "polymorphism",
+        "documentation": {}
+    },
+    {
+        "label": "d",
+        "kind": 5,
+        "importPath": "polymorphism",
+        "description": "polymorphism",
+        "peekOfCode": "d = Designer(\"Philipp\", \"Design\",\"Senior\", 4000, 23)\nemployees =[SoftwareEngineer(\"Genius\",  \"Software\",\"Senior\", 6000, 34),\n            SoftwareEngineer(\"Max\", \"Software\",\"Junior\", 4000, 34),\n            Designer(\"Philipp\", \"Design\",\"Senior\", 4000, 23),\n            SoftwareEngineer(\"Anna\", \"Software\",\"Senior\", 6000, 24),\n            Designer(\"Monalisa\", \"Design\",\"Junior\", 3000, 34)]\ndef check_on(employees):\n    for employee in employees:\n        employee.work_status()\ncheck_on(employees)",
+        "detail": "polymorphism",
+        "documentation": {}
+    },
+    {
+        "label": "SoftwareEngineer",
+        "kind": 6,
+        "importPath": "properties",
+        "description": "properties",
+        "peekOfCode": "class SoftwareEngineer:\n    def __init__(self):\n        self._salary = None\n    @property\n    def salary(self):\n        return self._salary\n    @salary.setter\n    def salary(self, base_value):\n        self._salary = base_value\n    @salary.deleter",
+        "detail": "properties",
+        "documentation": {}
+    },
+    {
+        "label": "se",
+        "kind": 5,
+        "importPath": "properties",
+        "description": "properties",
+        "peekOfCode": "se = SoftwareEngineer()\nse.salary = 5000\n#se.set_salary(4000)\nprint(se.salary)\n#del se.salary\nprint(se.salary)",
+        "detail": "properties",
+        "documentation": {}
+    },
+    {
+        "label": "se.salary",
+        "kind": 5,
+        "importPath": "properties",
+        "description": "properties",
+        "peekOfCode": "se.salary = 5000\n#se.set_salary(4000)\nprint(se.salary)\n#del se.salary\nprint(se.salary)",
+        "detail": "properties",
+        "documentation": {}
+    },
+    {
+        "label": "TechStaffs",
+        "kind": 6,
+        "importPath": "tech_staffs",
+        "description": "tech_staffs",
+        "peekOfCode": "class TechStaffs:\n    #class attribute\n    staff_attribute = \"Network Wizard\"\n    def __init__(self, name, age, level, salary):\n        # instance attributes\n        self.name = name\n        self.age = age\n        self.level = level\n        self.salary = salary\n    def code(self):",
+        "detail": "tech_staffs",
+        "documentation": {}
+    },
+    {
+        "label": "attribute",
+        "kind": 6,
+        "importPath": "tech_staffs",
+        "description": "tech_staffs",
+        "peekOfCode": "class attributes are variable values assigned to all instances (or any instance) of a class\ninstance attributes are peculiar to each instance\n\"\"\"\nse1.code()\nse2.code()\nse1.code_in_language(\"Python\")\nse2.code_in_language(\"JAVA\")\n#se1.information()\n#se2.information()\nprint(se2.entry_salary(45))",
+        "detail": "tech_staffs",
+        "documentation": {}
+    },
+    {
+        "label": "#se1",
+        "kind": 5,
+        "importPath": "tech_staffs",
+        "description": "tech_staffs",
+        "peekOfCode": "#se1 = [\"Software Engineer\", \"Max\", 20, \"Senior\", 5000]\n#se2 = [\"Software Analyst\", \"Lisa\", 20, \"Junior\", 3000]\n#tailor = [\"Fashion Designer\", \"Mike\"]\nclass TechStaffs:\n    #class attribute\n    staff_attribute = \"Network Wizard\"\n    def __init__(self, name, age, level, salary):\n        # instance attributes\n        self.name = name\n        self.age = age",
+        "detail": "tech_staffs",
+        "documentation": {}
+    },
+    {
+        "label": "#se2",
+        "kind": 5,
+        "importPath": "tech_staffs",
+        "description": "tech_staffs",
+        "peekOfCode": "#se2 = [\"Software Analyst\", \"Lisa\", 20, \"Junior\", 3000]\n#tailor = [\"Fashion Designer\", \"Mike\"]\nclass TechStaffs:\n    #class attribute\n    staff_attribute = \"Network Wizard\"\n    def __init__(self, name, age, level, salary):\n        # instance attributes\n        self.name = name\n        self.age = age\n        self.level = level",
+        "detail": "tech_staffs",
+        "documentation": {}
+    },
+    {
+        "label": "#tailor",
+        "kind": 5,
+        "importPath": "tech_staffs",
+        "description": "tech_staffs",
+        "peekOfCode": "#tailor = [\"Fashion Designer\", \"Mike\"]\nclass TechStaffs:\n    #class attribute\n    staff_attribute = \"Network Wizard\"\n    def __init__(self, name, age, level, salary):\n        # instance attributes\n        self.name = name\n        self.age = age\n        self.level = level\n        self.salary = salary",
+        "detail": "tech_staffs",
+        "documentation": {}
+    },
+    {
+        "label": "se1",
+        "kind": 5,
+        "importPath": "tech_staffs",
+        "description": "tech_staffs",
+        "peekOfCode": "se1 = TechStaffs(\"Max\", 20, \"Senior\", 5000)\nprint(se1.name, se1.age, se1.level, se1.salary)\nprint(TechStaffs.staff_attribute)\nse2 = TechStaffs(\"Lisa\", 20, \"Junior\", 3000)\nprint(se2.name, se2.age, se2.level, se2.salary)\nprint(se2.staff_attribute)\n\"\"\"\nclass attributes are variable values assigned to all instances (or any instance) of a class\ninstance attributes are peculiar to each instance\n\"\"\"",
+        "detail": "tech_staffs",
+        "documentation": {}
+    },
+    {
+        "label": "se2",
+        "kind": 5,
+        "importPath": "tech_staffs",
+        "description": "tech_staffs",
+        "peekOfCode": "se2 = TechStaffs(\"Lisa\", 20, \"Junior\", 3000)\nprint(se2.name, se2.age, se2.level, se2.salary)\nprint(se2.staff_attribute)\n\"\"\"\nclass attributes are variable values assigned to all instances (or any instance) of a class\ninstance attributes are peculiar to each instance\n\"\"\"\nse1.code()\nse2.code()\nse1.code_in_language(\"Python\")",
+        "detail": "tech_staffs",
+        "documentation": {}
+    }
+]

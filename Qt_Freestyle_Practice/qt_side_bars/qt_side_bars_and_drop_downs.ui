@@ -1,0 +1,1392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>DropAndSideMainWindow</class>
+ <widget class="QMainWindow" name="DropAndSideMainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1064</width>
+    <height>588</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>resource_folder_test/WIN_20250404_18_49_12_Pro.jpg</normaloff>resource_folder_test/WIN_20250404_18_49_12_Pro.jpg</iconset>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(170, 170, 255);</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>10</y>
+      <width>1046</width>
+      <height>564</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <widget class="QWidget" name="icons_widget" native="true">
+       <property name="minimumSize">
+        <size>
+         <width>71</width>
+         <height>562</height>
+        </size>
+       </property>
+       <property name="maximumSize">
+        <size>
+         <width>71</width>
+         <height>562</height>
+        </size>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(170, 170, 255);</string>
+       </property>
+       <widget class="QWidget" name="layoutWidget">
+        <property name="geometry">
+         <rect>
+          <x>11</x>
+          <y>11</y>
+          <width>47</width>
+          <height>547</height>
+         </rect>
+        </property>
+        <layout class="QVBoxLayout" name="verticalLayout_9">
+         <item>
+          <widget class="QLabel" name="school_logo_1">
+           <property name="minimumSize">
+            <size>
+             <width>20</width>
+             <height>41</height>
+            </size>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>45</width>
+             <height>41</height>
+            </size>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="pixmap">
+            <pixmap>resource_folder_test/settings.png</pixmap>
+           </property>
+           <property name="scaledContents">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QPushButton" name="dashboard_icon">
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>resource_folder_test/home.png</normaloff>
+             <normalon>resource_folder_test/home2.png</normalon>
+             <disabledon>resource_folder_test/home2.png</disabledon>resource_folder_test/home.png</iconset>
+           </property>
+           <property name="checkable">
+            <bool>true</bool>
+           </property>
+           <property name="checked">
+            <bool>false</bool>
+           </property>
+           <property name="autoExclusive">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QPushButton" name="institution_icon">
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>resource_folder_test/menu.png</normaloff>
+             <normalon>resource_folder_test/menu2.png</normalon>resource_folder_test/menu.png</iconset>
+           </property>
+           <property name="checkable">
+            <bool>true</bool>
+           </property>
+           <property name="checked">
+            <bool>false</bool>
+           </property>
+           <property name="autoExclusive">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QPushButton" name="student_icon">
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>resource_folder_test/menu.png</normaloff>
+             <normalon>resource_folder_test/menu2.png</normalon>resource_folder_test/menu.png</iconset>
+           </property>
+           <property name="checkable">
+            <bool>true</bool>
+           </property>
+           <property name="checked">
+            <bool>false</bool>
+           </property>
+           <property name="autoExclusive">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QPushButton" name="teachers_icon">
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>resource_folder_test/menu.png</normaloff>
+             <normalon>resource_folder_test/menu2.png</normalon>resource_folder_test/menu.png</iconset>
+           </property>
+           <property name="checkable">
+            <bool>true</bool>
+           </property>
+           <property name="checked">
+            <bool>false</bool>
+           </property>
+           <property name="autoExclusive">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QPushButton" name="finances_icon">
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>resource_folder_test/menu.png</normaloff>
+             <normalon>resource_folder_test/menu2.png</normalon>resource_folder_test/menu.png</iconset>
+           </property>
+           <property name="checkable">
+            <bool>true</bool>
+           </property>
+           <property name="checked">
+            <bool>false</bool>
+           </property>
+           <property name="autoExclusive">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <spacer name="verticalSpacer">
+           <property name="orientation">
+            <enum>Qt::Orientation::Vertical</enum>
+           </property>
+           <property name="sizeHint" stdset="0">
+            <size>
+             <width>17</width>
+             <height>288</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+         <item>
+          <widget class="QPushButton" name="settings_icon">
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>resource_folder_test/settings.png</normaloff>resource_folder_test/settings.png</iconset>
+           </property>
+           <property name="checkable">
+            <bool>true</bool>
+           </property>
+           <property name="checked">
+            <bool>false</bool>
+           </property>
+           <property name="autoExclusive">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QPushButton" name="sign_out_icon">
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>resource_folder_test/help.png</normaloff>resource_folder_test/help.png</iconset>
+           </property>
+           <property name="checkable">
+            <bool>true</bool>
+           </property>
+           <property name="autoExclusive">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </widget>
+     </item>
+     <item>
+      <widget class="QWidget" name="text_widget" native="true">
+       <property name="minimumSize">
+        <size>
+         <width>160</width>
+         <height>0</height>
+        </size>
+       </property>
+       <property name="maximumSize">
+        <size>
+         <width>160</width>
+         <height>16777215</height>
+        </size>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(170, 170, 255);
+QPshButton
+{
+height: 30px;
+border: none
+}</string>
+       </property>
+       <widget class="QWidget" name="layoutWidget">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>10</y>
+          <width>135</width>
+          <height>549</height>
+         </rect>
+        </property>
+        <layout class="QVBoxLayout" name="verticalLayout_7">
+         <item>
+          <layout class="QHBoxLayout" name="horizontalLayout_2">
+           <item>
+            <widget class="QLabel" name="school_logo_2">
+             <property name="maximumSize">
+              <size>
+               <width>49</width>
+               <height>41</height>
+              </size>
+             </property>
+             <property name="text">
+              <string/>
+             </property>
+             <property name="pixmap">
+              <pixmap>resource_folder_test/settings.png</pixmap>
+             </property>
+             <property name="scaledContents">
+              <bool>true</bool>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLabel" name="school_name_label">
+             <property name="maximumSize">
+              <size>
+               <width>124</width>
+               <height>41</height>
+              </size>
+             </property>
+             <property name="font">
+              <font>
+               <pointsize>14</pointsize>
+               <bold>true</bold>
+              </font>
+             </property>
+             <property name="text">
+              <string>SCHOOL</string>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </item>
+         <item>
+          <widget class="QPushButton" name="dashboard_pushbutton">
+           <property name="styleSheet">
+            <string notr="true"/>
+           </property>
+           <property name="text">
+            <string>   DASHBOARD</string>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>resource_folder_test/home.png</normaloff>
+             <normalon>resource_folder_test/home2.png</normalon>resource_folder_test/home.png</iconset>
+           </property>
+           <property name="checkable">
+            <bool>true</bool>
+           </property>
+           <property name="checked">
+            <bool>false</bool>
+           </property>
+           <property name="autoExclusive">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QPushButton" name="institution_pushButton">
+           <property name="text">
+            <string>   INSTITUTION</string>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>resource_folder_test/menu.png</normaloff>
+             <normalon>resource_folder_test/menu2.png</normalon>resource_folder_test/menu.png</iconset>
+           </property>
+           <property name="checkable">
+            <bool>true</bool>
+           </property>
+           <property name="autoExclusive">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QFrame" name="students_big_frame">
+           <property name="frameShape">
+            <enum>QFrame::Shape::StyledPanel</enum>
+           </property>
+           <property name="frameShadow">
+            <enum>QFrame::Shadow::Raised</enum>
+           </property>
+           <layout class="QVBoxLayout" name="verticalLayout_5">
+            <property name="spacing">
+             <number>0</number>
+            </property>
+            <property name="leftMargin">
+             <number>0</number>
+            </property>
+            <property name="topMargin">
+             <number>0</number>
+            </property>
+            <property name="rightMargin">
+             <number>0</number>
+            </property>
+            <property name="bottomMargin">
+             <number>0</number>
+            </property>
+            <item>
+             <widget class="QPushButton" name="studentFrame">
+              <property name="text">
+               <string>   STUDENTS</string>
+              </property>
+              <property name="icon">
+               <iconset>
+                <normaloff>resource_folder_test/menu.png</normaloff>
+                <normalon>resource_folder_test/menu2.png</normalon>resource_folder_test/menu.png</iconset>
+              </property>
+              <property name="checkable">
+               <bool>true</bool>
+              </property>
+              <property name="autoExclusive">
+               <bool>false</bool>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <widget class="QFrame" name="student_drop_down_frame">
+              <property name="frameShape">
+               <enum>QFrame::Shape::StyledPanel</enum>
+              </property>
+              <property name="frameShadow">
+               <enum>QFrame::Shadow::Raised</enum>
+              </property>
+              <layout class="QVBoxLayout" name="verticalLayout_3">
+               <item>
+                <widget class="QPushButton" name="studentInfo">
+                 <property name="text">
+                  <string>Student Info</string>
+                 </property>
+                 <property name="checkable">
+                  <bool>true</bool>
+                 </property>
+                 <property name="autoExclusive">
+                  <bool>true</bool>
+                 </property>
+                </widget>
+               </item>
+               <item>
+                <widget class="QPushButton" name="studentResult">
+                 <property name="text">
+                  <string>Student Result</string>
+                 </property>
+                 <property name="checkable">
+                  <bool>true</bool>
+                 </property>
+                 <property name="autoExclusive">
+                  <bool>true</bool>
+                 </property>
+                </widget>
+               </item>
+               <item>
+                <widget class="QPushButton" name="studentPayments">
+                 <property name="text">
+                  <string>Student Payments</string>
+                 </property>
+                 <property name="checkable">
+                  <bool>true</bool>
+                 </property>
+                 <property name="autoExclusive">
+                  <bool>true</bool>
+                 </property>
+                </widget>
+               </item>
+              </layout>
+             </widget>
+            </item>
+           </layout>
+          </widget>
+         </item>
+         <item>
+          <widget class="QFrame" name="teachers_big_frame">
+           <property name="frameShape">
+            <enum>QFrame::Shape::StyledPanel</enum>
+           </property>
+           <property name="frameShadow">
+            <enum>QFrame::Shadow::Raised</enum>
+           </property>
+           <layout class="QVBoxLayout" name="verticalLayout_4">
+            <property name="leftMargin">
+             <number>0</number>
+            </property>
+            <property name="topMargin">
+             <number>0</number>
+            </property>
+            <property name="rightMargin">
+             <number>0</number>
+            </property>
+            <property name="bottomMargin">
+             <number>0</number>
+            </property>
+            <item>
+             <widget class="QPushButton" name="teacherFrame">
+              <property name="text">
+               <string>  TEACHERS</string>
+              </property>
+              <property name="icon">
+               <iconset>
+                <normaloff>resource_folder_test/menu.png</normaloff>
+                <normalon>resource_folder_test/menu2.png</normalon>resource_folder_test/menu.png</iconset>
+              </property>
+              <property name="checkable">
+               <bool>true</bool>
+              </property>
+              <property name="autoExclusive">
+               <bool>false</bool>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <widget class="QFrame" name="teacher_drop_down_frame">
+              <property name="frameShape">
+               <enum>QFrame::Shape::StyledPanel</enum>
+              </property>
+              <property name="frameShadow">
+               <enum>QFrame::Shadow::Raised</enum>
+              </property>
+              <layout class="QVBoxLayout" name="verticalLayout">
+               <property name="spacing">
+                <number>0</number>
+               </property>
+               <property name="leftMargin">
+                <number>0</number>
+               </property>
+               <property name="topMargin">
+                <number>0</number>
+               </property>
+               <property name="rightMargin">
+                <number>0</number>
+               </property>
+               <property name="bottomMargin">
+                <number>0</number>
+               </property>
+               <item>
+                <widget class="QPushButton" name="teacherInfo">
+                 <property name="text">
+                  <string>Teacher Info</string>
+                 </property>
+                 <property name="checkable">
+                  <bool>true</bool>
+                 </property>
+                 <property name="autoExclusive">
+                  <bool>true</bool>
+                 </property>
+                </widget>
+               </item>
+               <item>
+                <widget class="QPushButton" name="teacherAllowances">
+                 <property name="text">
+                  <string>Teacher Allowances</string>
+                 </property>
+                 <property name="checkable">
+                  <bool>true</bool>
+                 </property>
+                 <property name="autoExclusive">
+                  <bool>true</bool>
+                 </property>
+                </widget>
+               </item>
+               <item>
+                <widget class="QPushButton" name="teacherPayments">
+                 <property name="text">
+                  <string>Teacher Payments</string>
+                 </property>
+                 <property name="checkable">
+                  <bool>true</bool>
+                 </property>
+                 <property name="autoExclusive">
+                  <bool>true</bool>
+                 </property>
+                </widget>
+               </item>
+              </layout>
+             </widget>
+            </item>
+           </layout>
+          </widget>
+         </item>
+         <item>
+          <widget class="QFrame" name="finanaces_big_frame">
+           <property name="frameShape">
+            <enum>QFrame::Shape::StyledPanel</enum>
+           </property>
+           <property name="frameShadow">
+            <enum>QFrame::Shadow::Raised</enum>
+           </property>
+           <layout class="QVBoxLayout" name="verticalLayout_6">
+            <property name="spacing">
+             <number>0</number>
+            </property>
+            <property name="leftMargin">
+             <number>0</number>
+            </property>
+            <property name="topMargin">
+             <number>0</number>
+            </property>
+            <property name="rightMargin">
+             <number>0</number>
+            </property>
+            <property name="bottomMargin">
+             <number>0</number>
+            </property>
+            <item>
+             <widget class="QPushButton" name="financesFrame">
+              <property name="text">
+               <string>  FINANCES</string>
+              </property>
+              <property name="icon">
+               <iconset>
+                <normaloff>resource_folder_test/menu.png</normaloff>
+                <normalon>resource_folder_test/menu2.png</normalon>resource_folder_test/menu.png</iconset>
+              </property>
+              <property name="checkable">
+               <bool>true</bool>
+              </property>
+              <property name="autoExclusive">
+               <bool>false</bool>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <widget class="QFrame" name="finanace_drop_down_frame">
+              <property name="frameShape">
+               <enum>QFrame::Shape::StyledPanel</enum>
+              </property>
+              <property name="frameShadow">
+               <enum>QFrame::Shadow::Raised</enum>
+              </property>
+              <layout class="QVBoxLayout" name="verticalLayout_2">
+               <item>
+                <widget class="QPushButton" name="budgets">
+                 <property name="text">
+                  <string>Budgets</string>
+                 </property>
+                 <property name="checkable">
+                  <bool>true</bool>
+                 </property>
+                 <property name="autoExclusive">
+                  <bool>true</bool>
+                 </property>
+                </widget>
+               </item>
+               <item>
+                <widget class="QPushButton" name="expenses">
+                 <property name="text">
+                  <string>Expenses</string>
+                 </property>
+                 <property name="checkable">
+                  <bool>true</bool>
+                 </property>
+                 <property name="autoExclusive">
+                  <bool>true</bool>
+                 </property>
+                </widget>
+               </item>
+               <item>
+                <widget class="QPushButton" name="income">
+                 <property name="text">
+                  <string>Income</string>
+                 </property>
+                 <property name="checkable">
+                  <bool>true</bool>
+                 </property>
+                 <property name="autoExclusive">
+                  <bool>true</bool>
+                 </property>
+                </widget>
+               </item>
+              </layout>
+             </widget>
+            </item>
+           </layout>
+          </widget>
+         </item>
+         <item>
+          <widget class="QPushButton" name="settings">
+           <property name="text">
+            <string>  SETTINGS</string>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>resource_folder_test/settings.png</normaloff>resource_folder_test/settings.png</iconset>
+           </property>
+           <property name="checkable">
+            <bool>true</bool>
+           </property>
+           <property name="autoExclusive">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QPushButton" name="sign_out_2">
+           <property name="text">
+            <string>  SIGN OUT</string>
+           </property>
+           <property name="icon">
+            <iconset>
+             <normaloff>resource_folder_test/help.png</normaloff>resource_folder_test/help.png</iconset>
+           </property>
+           <property name="checkable">
+            <bool>true</bool>
+           </property>
+           <property name="autoExclusive">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </widget>
+     </item>
+     <item>
+      <layout class="QVBoxLayout" name="verticalLayout_13">
+       <item>
+        <widget class="QWidget" name="header_widget" native="true">
+         <property name="maximumSize">
+          <size>
+           <width>16777215</width>
+           <height>72</height>
+          </size>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">background-color: rgb(170, 170, 255);</string>
+         </property>
+         <layout class="QHBoxLayout" name="horizontalLayout_5">
+          <property name="sizeConstraint">
+           <enum>QLayout::SizeConstraint::SetNoConstraint</enum>
+          </property>
+          <item>
+           <layout class="QHBoxLayout" name="horizontalLayout_4">
+            <item>
+             <widget class="QPushButton" name="pushButton">
+              <property name="maximumSize">
+               <size>
+                <width>46</width>
+                <height>51</height>
+               </size>
+              </property>
+              <property name="text">
+               <string/>
+              </property>
+              <property name="icon">
+               <iconset>
+                <normaloff>resource_folder_test/menu2.png</normaloff>resource_folder_test/menu2.png</iconset>
+              </property>
+              <property name="iconSize">
+               <size>
+                <width>34</width>
+                <height>100</height>
+               </size>
+              </property>
+              <property name="checkable">
+               <bool>true</bool>
+              </property>
+              <property name="checked">
+               <bool>false</bool>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <layout class="QVBoxLayout" name="verticalLayout_12">
+              <item>
+               <widget class="QLabel" name="label">
+                <property name="font">
+                 <font>
+                  <italic>true</italic>
+                  <bold>true</bold>
+                  <kerning>true</kerning>
+                 </font>
+                </property>
+                <property name="frameShape">
+                 <enum>QFrame::Shape::WinPanel</enum>
+                </property>
+                <property name="text">
+                 <string>Welcome Student</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QLabel" name="label_2">
+                <property name="frameShape">
+                 <enum>QFrame::Shape::WinPanel</enum>
+                </property>
+                <property name="text">
+                 <string>Welcome to your page</string>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </item>
+           </layout>
+          </item>
+          <item>
+           <spacer name="horizontalSpacer_4">
+            <property name="orientation">
+             <enum>Qt::Orientation::Horizontal</enum>
+            </property>
+            <property name="sizeHint" stdset="0">
+             <size>
+              <width>241</width>
+              <height>20</height>
+             </size>
+            </property>
+           </spacer>
+          </item>
+          <item>
+           <layout class="QHBoxLayout" name="horizontalLayout_3">
+            <property name="spacing">
+             <number>25</number>
+            </property>
+            <item>
+             <widget class="QLineEdit" name="lineEdit">
+              <property name="minimumSize">
+               <size>
+                <width>241</width>
+                <height>31</height>
+               </size>
+              </property>
+              <property name="maximumSize">
+               <size>
+                <width>270</width>
+                <height>31</height>
+               </size>
+              </property>
+              <property name="styleSheet">
+               <string notr="true"/>
+              </property>
+              <property name="placeholderText">
+               <string>Search...</string>
+              </property>
+              <property name="clearButtonEnabled">
+               <bool>false</bool>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <widget class="QLabel" name="label_3">
+              <property name="minimumSize">
+               <size>
+                <width>71</width>
+                <height>41</height>
+               </size>
+              </property>
+              <property name="maximumSize">
+               <size>
+                <width>71</width>
+                <height>41</height>
+               </size>
+              </property>
+              <property name="text">
+               <string/>
+              </property>
+              <property name="pixmap">
+               <pixmap>resource_folder_test/WIN_20250916_23_49_46_Pro.jpg</pixmap>
+              </property>
+              <property name="scaledContents">
+               <bool>true</bool>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </item>
+         </layout>
+        </widget>
+       </item>
+       <item>
+        <widget class="QWidget" name="main_display_widget" native="true">
+         <property name="minimumSize">
+          <size>
+           <width>0</width>
+           <height>0</height>
+          </size>
+         </property>
+         <property name="maximumSize">
+          <size>
+           <width>16777215</width>
+           <height>16777215</height>
+          </size>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">background-color: rgb(103, 103, 103);</string>
+         </property>
+         <layout class="QVBoxLayout" name="verticalLayout_14">
+          <item>
+           <widget class="QStackedWidget" name="stackedWidget">
+            <property name="minimumSize">
+             <size>
+              <width>773</width>
+              <height>463</height>
+             </size>
+            </property>
+            <property name="font">
+             <font>
+              <pointsize>25</pointsize>
+             </font>
+            </property>
+            <property name="frameShape">
+             <enum>QFrame::Shape::WinPanel</enum>
+            </property>
+            <property name="currentIndex">
+             <number>3</number>
+            </property>
+            <widget class="QWidget" name="dashboard_page">
+             <widget class="QLabel" name="label_4">
+              <property name="geometry">
+               <rect>
+                <x>220</x>
+                <y>110</y>
+                <width>181</width>
+                <height>111</height>
+               </rect>
+              </property>
+              <property name="font">
+               <font>
+                <pointsize>25</pointsize>
+               </font>
+              </property>
+              <property name="text">
+               <string>Dashboard</string>
+              </property>
+             </widget>
+            </widget>
+            <widget class="QWidget" name="institution_page">
+             <widget class="QLabel" name="label_5">
+              <property name="geometry">
+               <rect>
+                <x>290</x>
+                <y>170</y>
+                <width>181</width>
+                <height>111</height>
+               </rect>
+              </property>
+              <property name="font">
+               <font>
+                <pointsize>25</pointsize>
+               </font>
+              </property>
+              <property name="text">
+               <string>Institution</string>
+              </property>
+             </widget>
+            </widget>
+            <widget class="QWidget" name="studentInfo_page">
+             <widget class="QLabel" name="label_6">
+              <property name="geometry">
+               <rect>
+                <x>350</x>
+                <y>170</y>
+                <width>181</width>
+                <height>111</height>
+               </rect>
+              </property>
+              <property name="font">
+               <font>
+                <pointsize>25</pointsize>
+               </font>
+              </property>
+              <property name="text">
+               <string>Student Info</string>
+              </property>
+             </widget>
+            </widget>
+            <widget class="QWidget" name="studentInfo_page">
+             <widget class="QLabel" name="label_7">
+              <property name="geometry">
+               <rect>
+                <x>310</x>
+                <y>220</y>
+                <width>261</width>
+                <height>111</height>
+               </rect>
+              </property>
+              <property name="font">
+               <font>
+                <pointsize>25</pointsize>
+               </font>
+              </property>
+              <property name="text">
+               <string>Student Result</string>
+              </property>
+             </widget>
+            </widget>
+            <widget class="QWidget" name="studentPayments_page">
+             <widget class="QLabel" name="label_8">
+              <property name="geometry">
+               <rect>
+                <x>310</x>
+                <y>170</y>
+                <width>291</width>
+                <height>111</height>
+               </rect>
+              </property>
+              <property name="font">
+               <font>
+                <pointsize>25</pointsize>
+               </font>
+              </property>
+              <property name="text">
+               <string>Student Payments</string>
+              </property>
+             </widget>
+            </widget>
+            <widget class="QWidget" name="teacherInfo_page">
+             <widget class="QLabel" name="label_9">
+              <property name="geometry">
+               <rect>
+                <x>260</x>
+                <y>160</y>
+                <width>181</width>
+                <height>111</height>
+               </rect>
+              </property>
+              <property name="font">
+               <font>
+                <pointsize>25</pointsize>
+               </font>
+              </property>
+              <property name="text">
+               <string>Teacher Info</string>
+              </property>
+             </widget>
+            </widget>
+            <widget class="QWidget" name="teacherAllowances_page">
+             <widget class="QLabel" name="label_10">
+              <property name="geometry">
+               <rect>
+                <x>210</x>
+                <y>160</y>
+                <width>351</width>
+                <height>121</height>
+               </rect>
+              </property>
+              <property name="font">
+               <font>
+                <pointsize>25</pointsize>
+               </font>
+              </property>
+              <property name="text">
+               <string>Teacher Allowances</string>
+              </property>
+             </widget>
+            </widget>
+            <widget class="QWidget" name="teacherPayments_page">
+             <widget class="QLabel" name="label_11">
+              <property name="geometry">
+               <rect>
+                <x>200</x>
+                <y>160</y>
+                <width>291</width>
+                <height>111</height>
+               </rect>
+              </property>
+              <property name="font">
+               <font>
+                <pointsize>25</pointsize>
+               </font>
+              </property>
+              <property name="text">
+               <string>Teacher Payments</string>
+              </property>
+             </widget>
+            </widget>
+            <widget class="QWidget" name="budgets_page">
+             <widget class="QLabel" name="label_12">
+              <property name="geometry">
+               <rect>
+                <x>290</x>
+                <y>180</y>
+                <width>271</width>
+                <height>111</height>
+               </rect>
+              </property>
+              <property name="font">
+               <font>
+                <pointsize>25</pointsize>
+               </font>
+              </property>
+              <property name="text">
+               <string>Budgets</string>
+              </property>
+             </widget>
+            </widget>
+            <widget class="QWidget" name="expenses_page">
+             <widget class="QLabel" name="label_13">
+              <property name="geometry">
+               <rect>
+                <x>310</x>
+                <y>120</y>
+                <width>181</width>
+                <height>111</height>
+               </rect>
+              </property>
+              <property name="font">
+               <font>
+                <pointsize>25</pointsize>
+               </font>
+              </property>
+              <property name="text">
+               <string>Expenses</string>
+              </property>
+             </widget>
+            </widget>
+            <widget class="QWidget" name="income_page">
+             <widget class="QLabel" name="label_14">
+              <property name="geometry">
+               <rect>
+                <x>300</x>
+                <y>150</y>
+                <width>181</width>
+                <height>111</height>
+               </rect>
+              </property>
+              <property name="font">
+               <font>
+                <pointsize>25</pointsize>
+               </font>
+              </property>
+              <property name="text">
+               <string>Income</string>
+              </property>
+             </widget>
+            </widget>
+            <widget class="QWidget" name="page_12">
+             <widget class="QLabel" name="label_15">
+              <property name="geometry">
+               <rect>
+                <x>360</x>
+                <y>140</y>
+                <width>181</width>
+                <height>111</height>
+               </rect>
+              </property>
+              <property name="minimumSize">
+               <size>
+                <width>181</width>
+                <height>111</height>
+               </size>
+              </property>
+              <property name="font">
+               <font>
+                <pointsize>25</pointsize>
+               </font>
+              </property>
+              <property name="text">
+               <string>Settings</string>
+              </property>
+             </widget>
+            </widget>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </item>
+      </layout>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>studentFrame</sender>
+   <signal>toggled(bool)</signal>
+   <receiver>student_drop_down_frame</receiver>
+   <slot>setHidden(bool)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>218</x>
+     <y>155</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>218</x>
+     <y>259</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton</sender>
+   <signal>toggled(bool)</signal>
+   <receiver>text_widget</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>269</x>
+     <y>44</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>231</x>
+     <y>43</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>sign_out_2</sender>
+   <signal>toggled(bool)</signal>
+   <receiver>sign_out_icon</receiver>
+   <slot>setChecked(bool)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>221</x>
+     <y>568</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>56</x>
+     <y>567</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>teacherFrame</sender>
+   <signal>toggled(bool)</signal>
+   <receiver>teachers_icon</receiver>
+   <slot>setChecked(bool)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>199</x>
+     <y>278</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>54</x>
+     <y>182</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>sign_out_2</sender>
+   <signal>toggled(bool)</signal>
+   <receiver>DropAndSideMainWindow</receiver>
+   <slot>close()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>221</x>
+     <y>568</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>280</x>
+     <y>587</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>settings</sender>
+   <signal>toggled(bool)</signal>
+   <receiver>settings_icon</receiver>
+   <slot>setChecked(bool)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>221</x>
+     <y>538</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>56</x>
+     <y>537</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>financesFrame</sender>
+   <signal>toggled(bool)</signal>
+   <receiver>finanace_drop_down_frame</receiver>
+   <slot>setHidden(bool)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>218</x>
+     <y>403</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>218</x>
+     <y>507</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>sign_out_icon</sender>
+   <signal>toggled(bool)</signal>
+   <receiver>DropAndSideMainWindow</receiver>
+   <slot>close()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>56</x>
+     <y>567</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>112</x>
+     <y>587</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>financesFrame</sender>
+   <signal>toggled(bool)</signal>
+   <receiver>finances_icon</receiver>
+   <slot>setChecked(bool)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>218</x>
+     <y>386</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>34</x>
+     <y>200</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>institution_pushButton</sender>
+   <signal>toggled(bool)</signal>
+   <receiver>institution_icon</receiver>
+   <slot>setChecked(bool)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>210</x>
+     <y>110</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>54</x>
+     <y>122</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton</sender>
+   <signal>toggled(bool)</signal>
+   <receiver>text_widget</receiver>
+   <slot>setVisible(bool)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>286</x>
+     <y>54</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>237</x>
+     <y>67</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>teacherFrame</sender>
+   <signal>toggled(bool)</signal>
+   <receiver>teacher_drop_down_frame</receiver>
+   <slot>setHidden(bool)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>218</x>
+     <y>291</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>218</x>
+     <y>371</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>studentFrame</sender>
+   <signal>toggled(bool)</signal>
+   <receiver>student_icon</receiver>
+   <slot>setChecked(bool)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>203</x>
+     <y>140</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>54</x>
+     <y>152</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>dashboard_pushbutton</sender>
+   <signal>toggled(bool)</signal>
+   <receiver>dashboard_icon</receiver>
+   <slot>setChecked(bool)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>202</x>
+     <y>83</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>54</x>
+     <y>92</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <designerdata>
+  <property name="gridDeltaX">
+   <number>10</number>
+  </property>
+  <property name="gridDeltaY">
+   <number>10</number>
+  </property>
+  <property name="gridSnapX">
+   <bool>true</bool>
+  </property>
+  <property name="gridSnapY">
+   <bool>true</bool>
+  </property>
+  <property name="gridVisible">
+   <bool>true</bool>
+  </property>
+ </designerdata>
+</ui>

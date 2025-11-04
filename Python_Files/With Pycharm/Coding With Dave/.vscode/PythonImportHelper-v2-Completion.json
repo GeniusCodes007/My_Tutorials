@@ -1,0 +1,170 @@
+[
+    {
+        "label": "sin:",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "cos",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "tan",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "greeting",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "greeting = \"*    Good Morning!!!   *\"\nprint(greeting)\n#first = \"**     *****************hghgf*****\"\n#second = \"*                      *\"\n#third = \"*****************hjgffhh *******\"\n#print(first)\n#print(second)\nprint(greeting)                        \n#print(third)\nline1 = \"            *                  *         \"",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "#first",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "#first = \"**     *****************hghgf*****\"\n#second = \"*                      *\"\n#third = \"*****************hjgffhh *******\"\n#print(first)\n#print(second)\nprint(greeting)                        \n#print(third)\nline1 = \"            *                  *         \"\nline2 = \"           * *                * *        \"\nline3 = \"          * * *              * * *       \"",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "#second",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "#second = \"*                      *\"\n#third = \"*****************hjgffhh *******\"\n#print(first)\n#print(second)\nprint(greeting)                        \n#print(third)\nline1 = \"            *                  *         \"\nline2 = \"           * *                * *        \"\nline3 = \"          * * *              * * *       \"\nline4 = \"         **   **            **   **      \"",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "#third",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "#third = \"*****************hjgffhh *******\"\n#print(first)\n#print(second)\nprint(greeting)                        \n#print(third)\nline1 = \"            *                  *         \"\nline2 = \"           * *                * *        \"\nline3 = \"          * * *              * * *       \"\nline4 = \"         **   **            **   **      \"\nline5 = \"        **     **          **     **     \"",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line1",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line1 = \"            *                  *         \"\nline2 = \"           * *                * *        \"\nline3 = \"          * * *              * * *       \"\nline4 = \"         **   **            **   **      \"\nline5 = \"        **     **          **     **     \"\nline6 = \"       **_______**________**_______**    \"\nline7 = \"       |   _____            _____    |   \"\nline8 = \"       |   |____|           |____|   |   \"\nline9 = \"       |   |____|  ______   |____|   |   \"\nline10 = \"       |           |     |           |    \"",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line2",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line2 = \"           * *                * *        \"\nline3 = \"          * * *              * * *       \"\nline4 = \"         **   **            **   **      \"\nline5 = \"        **     **          **     **     \"\nline6 = \"       **_______**________**_______**    \"\nline7 = \"       |   _____            _____    |   \"\nline8 = \"       |   |____|           |____|   |   \"\nline9 = \"       |   |____|  ______   |____|   |   \"\nline10 = \"       |           |     |           |    \"\nline11 = \"       |           |     |           |    \"",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line3",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line3 = \"          * * *              * * *       \"\nline4 = \"         **   **            **   **      \"\nline5 = \"        **     **          **     **     \"\nline6 = \"       **_______**________**_______**    \"\nline7 = \"       |   _____            _____    |   \"\nline8 = \"       |   |____|           |____|   |   \"\nline9 = \"       |   |____|  ______   |____|   |   \"\nline10 = \"       |           |     |           |    \"\nline11 = \"       |           |     |           |    \"\nline12 = \"       |__________ |_____|___________|    \"",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line4",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line4 = \"         **   **            **   **      \"\nline5 = \"        **     **          **     **     \"\nline6 = \"       **_______**________**_______**    \"\nline7 = \"       |   _____            _____    |   \"\nline8 = \"       |   |____|           |____|   |   \"\nline9 = \"       |   |____|  ______   |____|   |   \"\nline10 = \"       |           |     |           |    \"\nline11 = \"       |           |     |           |    \"\nline12 = \"       |__________ |_____|___________|    \"\nprint(line1)",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line5",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line5 = \"        **     **          **     **     \"\nline6 = \"       **_______**________**_______**    \"\nline7 = \"       |   _____            _____    |   \"\nline8 = \"       |   |____|           |____|   |   \"\nline9 = \"       |   |____|  ______   |____|   |   \"\nline10 = \"       |           |     |           |    \"\nline11 = \"       |           |     |           |    \"\nline12 = \"       |__________ |_____|___________|    \"\nprint(line1)\nprint(line2)",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line6",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line6 = \"       **_______**________**_______**    \"\nline7 = \"       |   _____            _____    |   \"\nline8 = \"       |   |____|           |____|   |   \"\nline9 = \"       |   |____|  ______   |____|   |   \"\nline10 = \"       |           |     |           |    \"\nline11 = \"       |           |     |           |    \"\nline12 = \"       |__________ |_____|___________|    \"\nprint(line1)\nprint(line2)\nprint(line3)",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line7",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line7 = \"       |   _____            _____    |   \"\nline8 = \"       |   |____|           |____|   |   \"\nline9 = \"       |   |____|  ______   |____|   |   \"\nline10 = \"       |           |     |           |    \"\nline11 = \"       |           |     |           |    \"\nline12 = \"       |__________ |_____|___________|    \"\nprint(line1)\nprint(line2)\nprint(line3)\nprint(line4)",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line8",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line8 = \"       |   |____|           |____|   |   \"\nline9 = \"       |   |____|  ______   |____|   |   \"\nline10 = \"       |           |     |           |    \"\nline11 = \"       |           |     |           |    \"\nline12 = \"       |__________ |_____|___________|    \"\nprint(line1)\nprint(line2)\nprint(line3)\nprint(line4)\nprint(line5)",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line9",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line9 = \"       |   |____|  ______   |____|   |   \"\nline10 = \"       |           |     |           |    \"\nline11 = \"       |           |     |           |    \"\nline12 = \"       |__________ |_____|___________|    \"\nprint(line1)\nprint(line2)\nprint(line3)\nprint(line4)\nprint(line5)\nprint(line6)",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line10",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line10 = \"       |           |     |           |    \"\nline11 = \"       |           |     |           |    \"\nline12 = \"       |__________ |_____|___________|    \"\nprint(line1)\nprint(line2)\nprint(line3)\nprint(line4)\nprint(line5)\nprint(line6)\nprint(line7)",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line11",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line11 = \"       |           |     |           |    \"\nline12 = \"       |__________ |_____|___________|    \"\nprint(line1)\nprint(line2)\nprint(line3)\nprint(line4)\nprint(line5)\nprint(line6)\nprint(line7)\nprint(line8)",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    },
+    {
+        "label": "line12",
+        "kind": 5,
+        "importPath": "Coding With Dave",
+        "description": "Coding With Dave",
+        "peekOfCode": "line12 = \"       |__________ |_____|___________|    \"\nprint(line1)\nprint(line2)\nprint(line3)\nprint(line4)\nprint(line5)\nprint(line6)\nprint(line7)\nprint(line8)\nprint(line9)",
+        "detail": "Coding With Dave",
+        "documentation": {}
+    }
+]

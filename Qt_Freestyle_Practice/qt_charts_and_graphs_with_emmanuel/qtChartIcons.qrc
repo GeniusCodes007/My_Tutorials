@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="myIcons">
+    <file>chart_icons/line_graph_1.png</file>
+    <file>chart_icons/bar_chart_1.png</file>
+    <file>chart_icons/pie_chart_1.png</file>
+    <file>chart_icons/bar_chart_2.png</file>
+    <file>chart_icons/line_graph_2.png</file>
+    <file>chart_icons/pie_chart_2.png</file>
+  </qresource>
+</RCC>
