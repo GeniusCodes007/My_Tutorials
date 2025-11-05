@@ -7,9 +7,11 @@ from starlette import status
 from . import models
 from .database import engine, get_db
 from sqlalchemy.orm import Session
-
+from passlib.context import CryptContext
 from .models import Users, CreatePost, UpdatePost, UserRegInfo
+import sys
 
+pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
 models.Base.metadata.create_all(bind=engine)
 
 app = FastAPI()
@@ -101,10 +103,20 @@ def update(id_:int, new_post: UpdatePost, db:Session=Depends(get_db)):
 
 @app.post("/user", status_code=status.HTTP_201_CREATED, response_model= UserRegInfo)
 async def create_post( user:models.CreateUser,db: Session= Depends(get_db)):
-    new_user = models.UserAccount(**user.model_dump())
+    #try:
+        #hashing pin/password
+        #print("Did it")
+        #print(sys.getsizeof(user.pin))
+        hash_pwd = pwd_context.hash(user.pin)
 
-    db.add(new_user)
-    db.commit()
-    db.refresh(new_user)
+        user.pin[:72] = hash_pwd
 
-    return new_user
+        new_user = models.UserAccount(**user.model_dump())
+
+        db.add(new_user)
+        db.commit()
+        db.refresh(new_user)
+
+        return new_user
+    #except Exception as e:
+     #   print(f"\n\nThe error is {e}")
